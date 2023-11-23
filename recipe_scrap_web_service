@@ -6,7 +6,6 @@ from recipe_scrapers import scrape_me
 
 app = Flask(__name__)
 
-
 def scrape_recipe(url):
     try:
         scraper = scrape_me(url)
@@ -17,7 +16,7 @@ def scrape_recipe(url):
 
 @app.route('/hola', methods=['GET'])
 def hola():
-    return jsonify({"hola": "hello world"}), 200
+    return jsonify({"hola": "No se proporcionó URL"}), 400
 
 
 @app.route('/scrape', methods=['POST'])
@@ -34,4 +33,4 @@ def scrape():
         return jsonify({"error": "No se pudo raspar la receta"}), 500
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0", port=4000, debug=true)
+    app.run(debug=True)
