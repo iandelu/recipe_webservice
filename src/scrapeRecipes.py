@@ -1,15 +1,13 @@
 from flask import Flask, request, jsonify
 from recipe_scrapers import scrape_me
 
-#pip install flask
-#pip install recipe_scrapers
 
 app = Flask(__name__)
 
-def scrape_recipe(url):
+def scrape_recipe(url, wild):
     try:
-        scraper = scrape_me(url)
-        return scraper.to_json
+        scraper = scrape_me(url, wild_mode=True)
+        return scraper.to_json()
     except Exception as e:
         print(f"Error al raspar {url}: {e}")
         return None
@@ -23,10 +21,11 @@ def hola():
 def scrape():
     data = request.json
     url = data.get('url')
+    wild = data.get('wild')
     if not url:
         return jsonify({"error": "No se proporcionó URL"}), 400
 
-    recipe_data = scrape_recipe(url)
+    recipe_data = scrape_recipe(url,wild)
     if recipe_data:
         return jsonify(recipe_data)
     else:
