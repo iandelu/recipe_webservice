@@ -1,35 +1,58 @@
 import requests
 import pandas as pd
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+def print_progress_bar(iteration, total, prefix='', suffix='', decimals=1, length=50, fill='█', print_end="\r"):
+    percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
+    filled_length = int(length * iteration // total)
+    bar = fill * filled_length + '-' * (length - filled_length)
+    print(f'\r{prefix} |{bar}| {percent}% {suffix}', end=print_end)
+    if iteration == total: 
+        print()
+
 
 def generate_sql_insert_commands(food_items):
     product_inserts = []
     macronutrients_inserts = []
     
     for food in food_items:
-        # Asegúrate de adaptar esta parte según cómo extrajiste y nombraste los campos
-        product_insert = f"INSERT INTO product (ean, name, description, lastUpdate, brand) VALUES ('{food['ean']}', '{food['name']}', '{food['name']}', '{food['updatedDate']}', 'Generic');"
+        product_insert = f"INSERT INTO product (ean, name, description, lastUpdate) VALUES ('{food['ean']}', '{food['name']}', '{food['name']}', '{food['updatedDate']}');"
         product_inserts.append(product_insert)
         
-        # Asumiendo que ya has convertido los nutrientes en los campos correctos para ProductMacronutrients
-        macronutrients_insert = f"INSERT INTO ProductMacronutrients (ean, calories, fats, cabs, fibre, protein, salt) VALUES ('{food['ean']}', {food.get('energy', 0)}, {food.get('fats', 0)}, {food.get('carbohydrate', 0)}, {food.get('fiber', 0)}, {food.get('protein', 0)}, {food.get('sodium', 0)/1000});"  # Asume que el sodio está en mg y lo convierte a g para la sal
+        macronutrient_parts = [f"'{food['ean']}'"]  # EAN como primer valor
+        for nutrient_name in nutrient_map.values():
+            value = food.get(nutrient_name, "NULL")
+            macronutrient_parts.append(str(value))
+        
+        macronutrient_values = ", ".join(macronutrient_parts)
+        macronutrients_insert = f"INSERT INTO ProductMacronutrients (ean, {', '.join(nutrient_map.values())}) VALUES ({macronutrient_values});"
         macronutrients_inserts.append(macronutrients_insert)
     
     return product_inserts, macronutrients_inserts
 
+
+
+def write_sql_commands_to_files(product_inserts, macronutrients_inserts, product_filename='product_inserts.sql', macronutrients_filename='product_macronutrients_inserts.sql'):
+    """Escribe comandos INSERT SQL a archivos."""
+    with open(product_filename, 'w') as file:
+        for insert in product_inserts:
+            file.write(insert + "\n")
+    
+    with open(macronutrients_filename, 'w') as file:
+        for insert in macronutrients_inserts:
+            file.write(insert + "\n")
+
 api_key = 'bpiX1h0D33qOcFfgfzi1OTnIoUrg5B0fq8x6l4DO'
 url_base = 'https://api.nal.usda.gov/fdc/v1/foods/search'
-maximun_page=1000
+initial_page=1
 
-foods = []  # Lista para almacenar los resultados
-
-params = {
+params_base = {
     'query': 'raw',
     'dataType': ['Foundation', 'SR Legacy'],
     'api_key': api_key,
     'pageSize': 200,  
-    'pageNumber': 1 
+    'pageNumber': initial_page 
 }
-
 
 nutrient_map = {
     "Protein": "protein",
@@ -59,54 +82,66 @@ nutrient_map = {
     "Vitamin K (phylloquinone)": "vitaminK",
     "Thiamin" : "thiamim",
     "Niacin": "niacin"
-
-
-
     # Agrega aquí el resto de los nutrientes si es necesario
 }
+
 food_nutrients = {}
 
-while True:
+
+# Funciones auxiliares
+def get_food_data(page_number):
+    """Hace una solicitud a la API para obtener datos de alimentos."""
+    params = params_base.copy()
+    params['pageNumber'] = page_number
     response = requests.get(url_base, params=params)
-    data = response.json()
-
-    # Añadir los resultados a la lista de alimentos
-    for item in data['foods']:
-        for nutrient in item["foodNutrients"]:
-            nutrient_name = nutrient["nutrientName"]
-            if nutrient_name in nutrient_map:
-                field_name = nutrient_map[nutrient_name]
-                food_nutrients[field_name] = nutrient["nutrientNumber"]
-
-        food_info = {
-            "name": item['description'].split(",")[0],
-            "ean": item["fdcId"],
-            "updatedDate": item["publishedDate"],
-            "foodCategory": item["foodCategory"]
-        }
-        food_info.update(food_nutrients)
-        foods.append(food_info)
+    try:
+        # First, check the status code to ensure the request was successful
+        if response.status_code == 200:
+            # Attempt to parse the JSON response
+            return response.json()
+        else:
+            print(f"Request failed with status code {response.status_code}")
+            print("Response content:", response.text)
+            return None
+    except requests.exceptions.JSONDecodeError as e:
+        print("Failed to decode JSON from response:", e)
+        print("Response content:", response.text)
+        return None
     
-    # Verificar si hay más páginas de resultados
-    if data['currentPage'] < data['totalPages'] or data['currentPage'] < maximun_page:
-        params['pageNumber'] = data['currentPage'] + 1  # Preparar la próxima página
-    else:
-        break  # Salir del bucle si estamos en la última página
+def process_food_item(item):
+    """Procesa un solo alimento y devuelve un diccionario con los datos relevantes."""
+    food_nutrients = {nutrient_map.get(n["nutrientName"], None): n["value"] for n in item["foodNutrients"] if n["nutrientName"] in nutrient_map}
+    return {
+        "name": item['description'].split(",")[0],
+        "ean": item["fdcId"],
+        "updatedDate": item["publishedDate"],
+        "foodCategory": item.get("foodCategory", ""),
+        **food_nutrients
+    }
 
+def fetch_and_process_foods(total_pages):
+    """Obtiene y procesa los datos de alimentos en paralelo."""
+    foods = []
+    with ThreadPoolExecutor(max_workers=5) as executor:
+        # Crear un futuro para cada solicitud de API
+        future_to_page = {executor.submit(get_food_data, page): page for page in range(1, total_pages + 1)}
+        for i, future in enumerate(as_completed(future_to_page), 1):
+            data = future.result()
+            foods.extend(process_food_item(item) for item in data['foods'])
+            print_progress_bar(i, total_pages, prefix='Descargando Datos:', suffix='Completo', length=50)
+    return foods
 
-# Convertir la lista de alimentos a DataFrame y guardarlo en CSV
-df = pd.DataFrame(foods)
-df.to_csv('lista_alimentos_raw.csv', index=False)
+def write_to_csv(foods, filename='lista_alimentos_raw.csv'):
+    """Escribe los datos de los alimentos a un archivo CSV."""
+    df = pd.DataFrame(foods)
+    df.to_csv(filename, index=False)
 
-# Generar comandos INSERT
-product_inserts, macronutrients_inserts = generate_sql_insert_commands(foods)
+def main():
+    total_pages = 200
+    foods = fetch_and_process_foods(total_pages)
+    write_to_csv(foods)
+    product_inserts, macronutrients_inserts = generate_sql_insert_commands(foods)
+    write_sql_commands_to_files(product_inserts, macronutrients_inserts)
 
-# Guardar comandos INSERT en archivos
-with open('product_inserts.sql', 'w') as file:
-    for insert in product_inserts:
-        file.write(insert + "\n")
-
-with open('product_macronutrients_inserts.sql', 'w') as file:
-    for insert in macronutrients_inserts:
-        file.write(insert + "\n")
-
+if __name__ == "__main__":
+    main()
