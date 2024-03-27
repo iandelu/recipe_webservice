@@ -1,4 +1,5 @@
 import json
+from datetime import datetime as date
 
 def process_food_item_customized(item):
     """
@@ -42,7 +43,7 @@ def process_food_item_customized(item):
     }
 
     # Usando la fecha del sistema para lastUpdate
-    last_update = datetime.now().isoformat()
+    last_update = date.now().isoformat()
 
     return {
         "ean": item.get("ean", None),

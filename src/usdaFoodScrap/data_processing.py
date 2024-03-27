@@ -55,7 +55,7 @@ def process_food_item(item):
     return {
         "description" : item['description'],
         "name": name,
-        "ean": "fdcId"+item["fdcId"],
+        "ean": "fdcId"+str(item["fdcId"]),
         "emojy": find_similar_emojy(item["foodCategory"]),
         "updatedDate": item["publishedDate"],
         "category": item.get("foodCategory", ""),
@@ -84,7 +84,8 @@ def fetch_and_process_foods(total_pages, url_base, api_key, params_base, initial
                         if processed_item['category'] not in categories:
                             categories.add(processed_item['category'])
             except Exception as e:
-                print(f"Error processing data for page {future_to_page[future]}: {e}")
+                print(f"Error processing data for page {future_to_page[future]}: {i}. Error: {e}")
+                print(e.__traceback__)
             finally:
                 print_progress_bar(i, total_pages, prefix='Descargando Datos:', suffix='Completo', length=50)
     

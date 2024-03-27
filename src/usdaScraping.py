@@ -30,7 +30,6 @@ def main():
 
     # Procesamos cada ítem de alimento ajustándonos al nuevo esquema
     products = [process_food_item_customized(item) for item in foods]
-
     save_products_to_json(products)
     
     write_sql_commands_to_files(product_inserts, macronutrients_inserts)
