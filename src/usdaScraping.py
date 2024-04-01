@@ -23,20 +23,22 @@ def main():
     
     foods, categories = fetch_and_process_foods(total_pages, url_base, api_key, params_base, initial_page)
     
-    write_to_csv(foods)
-    write_to_txt(categories, "sources/categories.txt")
+     # Procesamos cada ítem de alimento ajustándonos al nuevo esquema
+    
 
-    product_table_name = 'product'
-    macronutrients_table_name = 'ProductMacronutrients'
-    product_inserts, macronutrients_inserts = generate_sql_insert_commands(foods, product_table_name, macronutrients_table_name, nutrient_map)
+    
 
-    # Procesamos cada ítem de alimento ajustándonos al nuevo esquema
+    #product_table_name = 'product'
+    #macronutrients_table_name = 'ProductMacronutrients'
+    #product_inserts, macronutrients_inserts = generate_sql_insert_commands(foods, product_table_name, macronutrients_table_name, nutrient_map)
+   
     products = [process_food_item_customized(item) for item in foods]
-
     post_foods (products)
     save_products_to_json(products)
     
-    write_sql_commands_to_files(product_inserts, macronutrients_inserts)
+    # write_to_csv(foods, "sources/foods.csv")
+    # write_to_txt(categories, "sources/categories.txt")
+    # write_sql_commands_to_files(product_inserts, macronutrients_inserts)
     print(str(len(foods)) + " foods added")
 
 if __name__ == "__main__":

@@ -15,7 +15,7 @@ def write_sql_commands_to_files(product_inserts, macronutrients_inserts, product
         for insert in macronutrients_inserts:
             file.write(insert + "\n")
 
-def write_to_csv(foods, filename='sources/lista_alimentos_raw.csv'):
+def write_to_csv(foods, filename):
     """Escribe los datos de los alimentos a un archivo CSV."""
     df = pd.DataFrame(foods)
     df.to_csv(filename, index=False)

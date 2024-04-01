@@ -10,9 +10,7 @@ def post_foods(food_list) -> None:
     headers = {'Content-Type': 'application/json'}
     for food in food_list:
         try:
-            jsonFood = process_food_item_customized(food)
-            json_product = json.dumps(jsonFood)
-            response = requests.post(api_url, headers=headers, json=json_product)
+            response = requests.post(api_url, headers=headers, json=food)
             if response.status_code == 201:
                 print(f"Success: {food['name']} was added with status code {response.status_code}.")
             else:
