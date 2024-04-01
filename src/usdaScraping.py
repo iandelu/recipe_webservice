@@ -2,6 +2,7 @@ from usdaFoodScrap.data_processing import fetch_and_process_foods, nutrient_map
 from usdaFoodScrap.file_operations import write_to_csv, write_to_txt, write_sql_commands_to_files
 from usdaFoodScrap.sql_commands import generate_sql_insert_commands
 from usdaFoodScrap.food_json import process_food_item_customized, save_products_to_json
+from usdaFoodScrap.connect_to_backend import post_foods
 
 api_key = 'bpiX1h0D33qOcFfgfzi1OTnIoUrg5B0fq8x6l4DO'
 url_base = 'https://api.nal.usda.gov/fdc/v1/foods/search'
@@ -15,6 +16,7 @@ params_base = {
     'pageSize': 200,  
     'pageNumber': initial_page 
 }
+
 nombres_guardados = []
 
 def main():
@@ -30,6 +32,8 @@ def main():
 
     # Procesamos cada ítem de alimento ajustándonos al nuevo esquema
     products = [process_food_item_customized(item) for item in foods]
+
+    post_foods (products)
     save_products_to_json(products)
     
     write_sql_commands_to_files(product_inserts, macronutrients_inserts)

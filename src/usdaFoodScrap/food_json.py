@@ -69,7 +69,7 @@ def process_food_item_customized(item):
         "allergens": []  
     }
 
-def save_products_to_json(products, filename="products.json"):
+def save_products_to_json(products, filename="sources/products.json"):
     with open(filename, "w", encoding="utf-8") as file:
         json.dump(products, file, ensure_ascii=False, indent=4)
     print(f"{len(products)} productos guardados exitosamente en {filename}.")
