@@ -1,6 +1,7 @@
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from .emojy_dictionary import find_similar_emojy
 from .api_request import get_food_data
+from .google_translate import translate_text
 
 def print_progress_bar(iteration, total, prefix='', suffix='', decimals=1, length=50, fill='█', print_end="\r"):
     percent = ("{0:." + str(decimals) + "f}").format(100 * (iteration / float(total)))
@@ -47,6 +48,7 @@ nutrient_map = {
 def process_food_item(item):
     """Procesa un solo alimento y devuelve un diccionario con los datos relevantes."""
     food_nutrients = {nutrient_map.get(n["nutrientName"], None): n["value"] for n in item["foodNutrients"] if n["nutrientName"] in nutrient_map}
+    item['description'] = translate_text(item.get('description', 'No description available.'))
     description_parts = item['description'].split(",")
     if len(description_parts) > 2:
         name = description_parts[0] + description_parts[2]
@@ -58,7 +60,7 @@ def process_food_item(item):
         "ean": "fdcId"+str(item["fdcId"]),
         "emojy": find_similar_emojy(item["foodCategory"]),
         "updatedDate": item["publishedDate"],
-        "category": item.get("foodCategory", ""),
+        "category": translate_text(item.get("foodCategory", "")),
         "brand":"Generic",
         **food_nutrients
     }
