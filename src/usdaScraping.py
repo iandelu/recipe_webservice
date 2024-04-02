@@ -6,14 +6,14 @@ from usdaFoodScrap.connect_to_backend import post_foods
 
 api_key = 'bpiX1h0D33qOcFfgfzi1OTnIoUrg5B0fq8x6l4DO'
 url_base = 'https://api.nal.usda.gov/fdc/v1/foods/search'
-initial_page=30
+initial_page=1
 total_pages = 10
 
 params_base = {
     'query': 'raw',
     'dataType': ['Foundation', 'SR Legacy'],
     'api_key': api_key,
-    'pageSize': 200,  
+    'pageSize': 2,  
     'pageNumber': initial_page 
 }
 
@@ -23,11 +23,7 @@ def main():
     
     foods, categories = fetch_and_process_foods(total_pages, url_base, api_key, params_base, initial_page)
     
-     # Procesamos cada ítem de alimento ajustándonos al nuevo esquema
-    
-
-    
-
+    # Procesamos cada ítem de alimento ajustándonos al nuevo esquema
     #product_table_name = 'product'
     #macronutrients_table_name = 'ProductMacronutrients'
     #product_inserts, macronutrients_inserts = generate_sql_insert_commands(foods, product_table_name, macronutrients_table_name, nutrient_map)

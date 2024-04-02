@@ -1,5 +1,6 @@
 import json
 from datetime import datetime as date
+from .google_translate import translate_text
 
 def process_food_item_customized(item):
     """
@@ -47,11 +48,11 @@ def process_food_item_customized(item):
 
     return {
         "ean": item.get("ean", None),
-        "name": item.get("name", None),
+        "name": translate_text(item.get("name", None)),
         "amount": "100g",
         "nutriscore": None, 
         "novaGroup": None,  
-        "description": item.get("description", None),
+        "description": translate_text(item.get("description", None)),
         "brand": item.get("brand", None),
         "ingredients": None, 
         "origin": None,
@@ -59,7 +60,7 @@ def process_food_item_customized(item):
         "picture": None,
         "lastUpdate": last_update,
         "category": {
-            "name": item.get("category", None),
+            "name": translate_text(item.get("category", None)),
             "lan": "en",  
             "emoji": item.get("emojy", None), 
         },
