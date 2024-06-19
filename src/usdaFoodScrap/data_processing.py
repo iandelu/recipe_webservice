@@ -1,5 +1,5 @@
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from .emojy_dictionary import find_similar_emojy
+import time
 from .api_request import get_food_data
 from .google_translate import translate_text
 
@@ -46,19 +46,19 @@ nutrient_map = {
 }
 
 def process_food_item(item):
+    time.sleep(1)
     """Procesa un solo alimento y devuelve un diccionario con los datos relevantes."""
     food_nutrients = {nutrient_map.get(n["nutrientName"], None): n["value"] for n in item["foodNutrients"] if n["nutrientName"] in nutrient_map}
     item['description'] = translate_text(item.get('description', 'No description available.'))
     description_parts = item['description'].split(",")
-    if len(description_parts) > 2:
-        name = description_parts[0] + description_parts[2]
-    else:
-        name = description_parts[0]
+    name = ""
+    for i in range(len(description_parts)-1):
+        name = name + " " + description_parts[i].strip()
     return {
         "description" : item['description'],
         "name": name,
-        "ean": "fdcId"+str(item["fdcId"]),
-        "emojy": find_similar_emojy(item["foodCategory"]),
+        "ean": "GID"+str(item["fdcId"]),
+        "emojy": "🍔",
         "updatedDate": item["publishedDate"],
         "category": translate_text(item.get("foodCategory", "")),
         "brand":"Generic",
@@ -66,7 +66,7 @@ def process_food_item(item):
     }
 
 
-def fetch_and_process_foods(total_pages, url_base, api_key, params_base, initial_page):
+def fetch_and_process_foods(total_pages, url_base, api_key, params_base):
     """Obtiene y procesa los datos de alimentos en paralelo."""
     foods = []
     seen_names = set()

@@ -1,6 +1,5 @@
 # sql_commands.py
 
-# sql_commands.py
 
 def generate_sql_insert_command(table_name, data, column_map):
     """Genera un comando INSERT SQL para cualquier tabla dada una mapeo de columnas y datos."""
@@ -8,7 +7,7 @@ def generate_sql_insert_command(table_name, data, column_map):
     placeholders = ", ".join([f"'{data.get(column, 'NULL')}'" for column in column_map.values()])
     return f"INSERT INTO {table_name} ({columns}) VALUES ({placeholders});"
 
-def generate_sql_insert_commands(food_items, product_table_name, macronutrients_table_name, nutrient_map):
+def  generate_sql_insert_commands(food_items, product_table_name, macronutrients_table_name, nutrient_map):
     product_inserts = []
     macronutrients_inserts = []
     

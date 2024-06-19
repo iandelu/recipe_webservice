@@ -1,0 +1,2483 @@
+Especias, calabaza
+Especias, pimienta de Jamaica, tierra
+Especias, albahaca, secas
+Especias, Chervil, secas
+Especias, canela, tierra
+Especias, clavo, tierra
+Especias, jengibre, tierra
+Especias, maza, tierra
+Especias, marjoram, seca
+Especias, nuez moscada, tierra
+Especias, orégano, secado
+Especias, perejil, secado
+Especias, pimienta, negro
+Especias, romero, seco
+Especias, salvia, tierra
+Especias, salas, tierra
+Especias, estragón, secas
+Especias, tomillo, seco
+Especias, cúrcuma, tierra
+Especias, hoja de cilantro, seca
+Especias, hierba de eneldo, seca
+Especias, semilla de mostaza, tierra
+Cereales, avena, instantánea, fortificada, con canela y especias, secas
+Cereales, cuáquero, avena instantánea, cañón, especias, secas
+Cereales, cuáquero, avena instantánea, pasas y especias, secos
+Cereales, avena, instantánea, fortificada, con pasas y especias, preparados con agua
+Cereales, cuáquero, avena instantánea, especias de canela, azúcar reducida
+Melocotones, condimentado, enlatado, pesado, sólidos y líquidos
+Albahaca, fresca
+Alcaparras, enlatadas
+Dill hierba, fresca
+Rábano picante, preparado
+Mostaza, preparada, amarilla
+Menta, fresca
+Rosemary, fresco
+Sal, mesa
+Sal, mesa, yodada
+Mezcla de condimentos, seco, chile, original
+Mezcla de condimentos, seco, sazon, cilantro y annatto
+Mezcla de condimentos, seco, taco, original
+Spearmint, seca
+Tomillo, fresco
+Extracto de vainilla
+Extracto de vainilla, imitación, alcohol
+Vinagre, balsámico
+Harina de trigo, blanca, uso múltiple, enriquecida, fortificada de calcio
+Harina de trigo, blanca, para todo uso, enriquecido, sin blanquear
+Harina de trigo, blanca, de uso múltiple, autocontrol, enriquecida
+Harina de trigo, blanca, uso múltiple, desongradable
+Harina de trigo, blanco, pan, enriquecido
+Harina de trigo, blanco, pastel, enriquecido
+Harina de trigo, blanco, mezcla de tortillas, enriquecido
+Harina de trigo, grano integral (incluye alimentos para el programa de distribución de alimentos del USDA)
+Harina de trigo, grano integral, trigo suave
+Harina de trigo, pan, desingráfica
+Germen de trigo, crudo
+Trigo, durum
+Trigo, Kamut Khorasan, cocinado
+Arroz salvaje, cocido
+Pasta, seca, enriquecida
+Comida para bebés, cena, pasta con verduras
+Mezcla de pasta, carne clásica, sin preparación
+Mezcla de pasta, lasaña italiana, sin preparación
+Pasta con salsa de tomate, sin carne, enlatado
+Pasta, cocinada, enriquecida, con sal agregada
+Pasta, cocinada, sin enriquecer, con sal agregada
+Pasta, recién frigerada, simple, como se compró
+Pasta, frigerada fresca, simple, cocida
+Pasta, recién frigerada, espinacas, tal como se compró
+Pasta, frigerada fresca, espinacas, cocida
+Pasta, sin gluten, maíz, cocida
+Pasta, casera, hecha con huevo, cocido
+Olive Garden, pollo parmigiana sin pasta
+Mezcla de pasta, macarrones con hamburguesa con queso clásico, sin preparación
+Pasta, casera, hecha sin huevo, cocida
+Restaurante, italiano, pollo parmesano sin pasta
+Salsa, pasta, espagueti/marinara, listo para servir
+Mezcla de pasta, lasaña de cuatro queso italiano, sin preparación
+Pasta con francos en rodajas en salsa de tomate, entrante enlatado
+Pasta, sin gluten, harina de maíz y arroz, cocinado
+Tortellini, pasta con relleno de queso, recién frigerado, tal como se compró
+Grill italiana de Carrabba, parmesano de pollo sin pasta de cavatappi
+Pasta, sin gluten, harina de arroz marrón, cocida, tinkyada
+Salsa, pasta, espagueti/marinara, listo para servir, bajo sodio
+Pasta, sin gluten, harina de maíz y harina de quinua, cocinada, antigua cosecha
+Pasta, grano integral, 51% de trigo integral, permanente no enriquecida, cocinada, cocida
+Pasta, grano integral, 51% de trigo integral, permanente no enriquecida, seca
+Pasta, trigo integral, cocinado (incluye alimentos para el programa de distribución de alimentos del USDA)
+Extracto de pasta, sin gluten, harina de arroz y salvado de arroz, cocinado, de boles
+Pasta, grano integral, 51% de trigo integral, sémola enriquecida restante, cocinada (incluye alimentos para el programa de distribución de alimentos del USDA)
+Grano de amaranto, cocinado
+Harina de flecha
+Cebada, casada
+Cebada, perla, cocinada
+Harina de trigo sarraceno, por completo
+Groates de trigo sarraceno, asado, cocido
+Trigo sarraceno, grano entero
+Bulgur, cocinado
+Salvado de maíz, crudo
+Harina de maíz, masa, enriquecida, blanca
+Harina de maíz, masa, desingráfica, blanca
+Harina de maíz, grano integral, azul (Harina de Maiz Morrado)
+Harina de maíz, amarillo, degermed, desingráfica
+Harina de maíz, amarillo, masa, enriquecido
+Grano de maíz, blanco
+Harina de maíz, degermed, enriquecida, blanca
+Harina de maíz, degermed, desintegrada, blanca
+Harina de maíz, blanca, autocontrol, atornillada, llana, enriquecida
+Harina de maíz, blanca, autocontrol, atornillada, con harina de trigo agregada, enriquecida
+Harina de maíz, blanca, autocontrol, degermed, enriquecida
+Harina de maíz, amarilla, autocontrol, atornillada, llana, enriquecida
+Harina de maíz, amarilla, autocontrol, atornillada, con harina de trigo agregada, enriquecida
+Harina de maíz, amarilla, autocontrol, degermed, enriquecida
+Cuscús, cocido
+Harina, 00
+Harina, pan, blanco, enriquecido, sin blanquear
+Harina, maíz, amarillo, comida fina, enriquecida
+Harina, avena, grano integral
+Harina, pastelería, desingráfica, sin blanquear
+Harina, arroz, marrón
+Harina, arroz, blanco, desongradado
+Harina, sémola, gruesa y semi-gritar
+Harina, deletreada, grano entero
+Harina, trigo, uso general, enriquecido, blanqueado
+Harina, trigo, uso todo uso, desintegrado, sin blanquear
+Harina, trigo integral, desingráfico
+Hominy, enlatado, blanco
+Macarrones, vegetales, enriquecidos, cocidos
+Mijo, cocinado
+Fideos, chino, chow mein
+Fideos, huevo, cocinado, enriquecido, con sal agregada
+Fideos, huevo, cocinado, sin enriquecer, con sal agregada
+Fideos, huevo, seco, enriquecido
+Fideos, huevo, enriquecido, cocido
+Fideos, huevo, espinacas, enriquecidos, cocidos
+Fideos, huevo, desingráficos, cocidos, sin sal agregada
+Fideos, planos, crujientes, restaurante chino
+Fideos, japonés, soba, cocinado
+Fideos, japoneses, somen, cocinados
+Bran de avena, cocinado
+Harina de avena, parcialmente deBranned
+Avena, grano integral, enrollado, anticuado
+Avena, grano integral, corte de acero
+Quinua, cocinada
+Salvado de arroz, crudo
+Harina de arroz, marrón
+Harina de arroz, blanca, desingráfica
+Fideos de arroz, cocinado
+Arroz, marrón, grano largo, desongrado, crudo
+Arroz, marrón, grano largo, cocinado (incluye alimentos para el programa de distribución de alimentos del USDA)
+Arroz, marrón, grano medio, cocido (incluye alimentos para el programa de distribución de alimentos del USDA)
+Arroz, marrón, sanciliado, cocido, tío Bens
+Arroz, marrón, sanciliado, seco, tío Ben's
+Arroz, blanco, glutinoso, sin enriquecer, cocido
+Arroz, blanco, grano largo, desongradado, crudo
+Arroz, blanco, grano largo, paramentado, enriquecido, cocido
+Arroz, blanco, grano largo, paraminado, enriquecido, seco
+Arroz, blanco, grano largo, sarphed, sin enriquecer, cocido
+Arroz, blanco, grano largo, paraminado, sin enriquecer, seco
+Arroz, blanco, grano largo, precocido o instantáneo, enriquecido, seco
+Arroz, blanco, grano largo, regular, cocido, enriquecido, con sal
+Arroz, blanco, grano largo, regular, cocido, sin enriquecer, con sal
+Arroz, blanco, grano largo, regular, enriquecido, cocido
+Arroz, blanco, grano largo, regular, crudo, enriquecido
+Arroz, blanco, grano largo, regular, desontrado, cocido sin sal
+Arroz, blanco, de grano medio, cocido, sin enriquecer
+Arroz, blanco, grano medio, enriquecido, cocido
+Arroz, blanco, grano medio, crudo, enriquecido
+Arroz, blanco, grano corto, cocido, sin enriquecer
+Arroz, blanco, grano corto, enriquecido, cocido
+Arroz, blanco, grano corto, crudo, sin enriquecer
+Arroz, blanco, al vapor, restaurante chino
+Harina de centeno, oscuro
+Sémola, enriquecida
+Harina de sorgo, refinada, desingráfica
+Harina de sorgo, grano integral
+Spaghetti, fortificado por proteínas, cocidas, enriquecidas (N x 6.25)
+Spaghetti, fortificado por proteínas, secas, enriquecidas (N x 6.25)
+Espagueti, espinacas, cocidas
+Deletreado, cocido
+Tapioca, perla, seca
+Teff, cocinado
+Harina triticale, grano integral
+Salvado de trigo, crudo
+Harina de trigo, blanco (industrial), 10% de proteína, blanqueado, enriquecido
+Harina de trigo, blanco (industrial), 10% de proteína, sin blanquear, enriquecida
+Harina de trigo, blanco (industrial), 11.5% proteína, blanqueado, enriquecido
+Harina de trigo, blanco (industrial), 11.5% proteína, sin blanquear, enriquecida
+Harina de trigo, blanco (industrial), 13% proteína, blanqueado, enriquecido
+Harina de trigo, blanco (industrial), 13% de proteína, blanqueado, desingráfico
+Harina de trigo, blanco (industrial), 15% de proteína, blanqueado, enriquecido
+Harina de trigo, blanco (industrial), 9% de proteína, blanqueado, enriquecido
+Grano de sorgo
+Harina de trigo, blanca, uso múltiple, enriquecida, blanqueada
+Cereales listos para comer, post, cereales de panal
+Cereales listos para comer, tío Sam Cereal
+Cereales listos para comer, poste, cereales de nueces de uva
+Cereales, cuáquero, cereal natural de trigo integral, seco
+Cereales, cereal natural de trigo entero, seco
+Cereales, trigo, seco
+Cereales listos para comer, cuáquero, trigo rallado, cereal en bolsas
+Cereales listos para comer, malta o carne, pasa de cereal de salvado
+Cereales listos para comer, postes, granos de granos crujientes crujientes cereales de nuez
+Cereales listos para comer, cuáquero, cereal de lámpara de azúcar morena de arce
+Cereales listos para comer, cuáqueros, cereales de salvado de avena tostado de la madre
+Cereales, malta o comida, cereal de trigo caliente de Farina, seco
+Cereales, cereal natural de trigo integral, cocinado con agua, con sal
+Comida para bebés, cereal, con huevos, tensos
+Cereales, crema de arroz, seco
+Cereales, Farina, desingráficos, secos
+Cereales, Wheatena, cocinado con agua
+Cereales listos para comer, malta, mfina, muffins de arándanos Cereal
+¡Cereales listos para comer, cuáquero, Cap'n Crunch's Oops!Todas las bayas de cereal
+Cereales, malta o malla, arce y azúcar morena cereal de trigo caliente, seco
+Comida para bebés, cereal, cebada, seco fortificado
+Comida para bebés, cereal, mixto, seco fortificado
+Comida para bebés, cereal, mixto, con plátanos, seco
+Comida para bebés, cereal, avena, seco fortificado
+Comida para bebés, cereal, avena, con plátanos, seco
+Comida para bebés, cereal, avena, con miel, seca
+Comida para bebés, cereal, arroz, seco fortificado
+Comida para bebés, cereal, arroz, con plátanos, seco
+Comida para bebés, cereal, con yemas de huevo, junior
+Dulces, chocolate con leche, con cereal de arroz
+Cereales listos para comer, granola, casero
+Cereales, crema de trigo, instantáneo, seco
+Cereales, cuáquero, avena rápida, seco
+Cereales, trigo, cocinado con agua, con sal
+Galletas, chocolate, hecho con cereal de arroz
+Comida para bebés, cereal, arroz integral, seco, instante
+Comida para bebés, cereal, yemas de huevo y tocino, junior
+Comida para bebés, cereal, mezclado, preparado con leche entera
+Comida para bebés, cereal, mixto, con puré de manzana y plátanos, tensión
+Comida para bebés, cereal, avena, con puré de manzana y plátanos, tensión
+Comida para bebés, cereal, arroz, con puré de manzana y plátanos, tensión
+Comida para bebés, barra de cereal fortificada, relleno de frutas
+Cereales listos para comer, Puffins de Barbara, original
+Cereales listos para comer, General Mills, Cheerios
+Cereales listos para comer, arroz, hinchados, fortificados
+Cereales listos para comer, trigo, hinchados, fortificados
+Cereales, crema de arroz, cocinado con agua, con sal
+Cereales, Farina, enriquecidos, cocinados con agua, con sal
+Cereales, malta o malla, chocolate, seco
+Cereales, avena, instantáneos, fortificados, lisos, secos
+Cereales, avena, regular y rápido, no fortificado, seco
+Cereales, cuáquero, avena instantánea orgánica, regular
+Cereales, cuáquero, avena multigrano cuáquero, seco
+Cereales, cuáqueros, avena rápida con hierro, seco
+Galletas, malvavisco, con cereal de arroz y chispas de chocolate
+Copos de cereales listos para comer, postes, escamas de nueces de uva
+Cereales listos para comer, cuáqueros, cuadrados de avena, canela
+Cereales listos para comer, germen de trigo, tostados, lisos
+Cereales, malta-o-malla, original, simple, seco
+Cereales, cuáquero, arena de maíz, instantánea, simple, seca
+Cereales, cuáqueros, granos, blanco, rápido, seco
+Cereales, cuáquero, arena de casmero, blanco, regular, seco
+Cereales, cuáquero, sémola instantánea, sabor a mantequilla, seco
+Cereales, cuáquero, avena instantánea, manzanas y canela, seca
+Cereales, cuáquero, avena instantánea, pan de plátano, seco
+Cereales, cuáquero, avena instantánea, control de peso, canela
+Comida para bebés, producto horneado, bocadillos de los dedos fortificado
+Alimentos para bebés, cereales, proteínas altas, preparadas con leche entera
+Comida para bebés, cereales, alta proteína, con manzana y naranja, seco
+Comida para bebés, cereal, mixto, con puré de manzana y plátanos, junior, fortificado
+Comida para bebés, cereal, mezclado, con miel, preparada con leche entera
+Comida para bebés, cereal, avena, con puré de manzana y plátanos, junior, fortificado
+Comida para bebés, cereal, arroz, con miel, preparada con leche entera
+Comida para bebés, cereal, trigo integral, con manzanas, seco fortificado
+Comida para bebés, cereal integral de grano multigrano, seco fortificado
+Bebidas, sustituto de café, bebida de grano de cereal, polvo
+Cereales listos para comer, Health Valley, Fiber 7 Flakes
+Cereales listos para comer, malta o malla, manzana de manzana
+Cereales listos para comer, malt-o-MEAL, Toasters de canela
+Cereales listos para comer, malta, arroz crujiente
+Cereales listos para comer, malt-o-malla, copos de esmalte esmerilados
+Cereales listos para comer, malta o comidas, timbres de miel
+Cereales listos para comer, hojuelas de salvado de avena, Valle de Health
+Cereales listos para comer, poste, racimos de miel de avena, con almendras
+Cereales listos para comer, cuadrados de avena cuáquera, arce dorado
+Cereales listos para comer, cuáquero, cuáquero de avena, llanura
+Cereales listos para comer, trigo y salvado, presumidos con nueces y frutas
+Cereales, sémola de maíz, blanco, regular y rápido, enriquecido, seco
+Cereales, sémola de maíz, amarillo, regular y rápido, sin enriquecer, seco
+Cereales, crema de trigo, tiempo de cocción de 1 minuto, seco
+Cereales, crema de trigo, instantánea, preparado con agua, sin sal
+Cereales, crema de trigo, regular, cocción de 10 minutos, seco
+Cereales, avena, instantáneos, fortificados, arce y azúcar morena, seco
+Cereales, cuáqueros, sémola instantánea, sabor a tocino de campo, seco
+Cereales, cuáquero, avena instantánea, manzana y canela, azúcar reducida
+Cereales, cuáquero, avena instantánea, remolino de canela, fibra alta
+Cereales, cuáquero, avena instantánea, variedad de frutas y crema, seco
+Cereales, cuáquero, avena instantánea, arce y azúcar morena, seco
+Cereales, cuáquero, avena instantánea, pasas, fechas y nueces, secos
+Cereales, cuáquero, avena, medleys reales, nogal de manzana, seco
+Cereales, cuáquero, avena, Medleys reales, avellana de arándanos, seco
+Cereales, cuáquero, avena, Medleys reales, pistacho de cereza, seco
+Cereales, cuáquero, avena, Medleys reales, almendra de durazno, seco
+Pan, enriquecimiento, enriquecido
+Cereales, cuáquero, avena, medleys reales, baya de verano, seco
+Cereales, cuáquero, avena multigrano cuáquero, preparado con agua, sin sal
+Cereales, cuáquero, avena multigrano de cuáquero, preparado con agua, sal
+Cereales, cuáquero, avena instantánea de control de peso, pan de plátano
+Comida para bebés, cereal, avena, seca, gerber, grano único, fortificado
+Comida para bebés, cereal, arroz con peras y manzana, seca, instantánea fortificada
+Comida para bebés, cereal de avena con fruta, seca, instantánea, niño pequeño fortificado
+Bebidas, sustituto del café, bebida de grano de cereal, preparado con agua
+Bocadillos, Kellogg, Kellogg's, barras de cereales Nutri-Gran, fruta
+Cereales listos para comer, malta o maliza, berry colossal Crunch
+Cereales listos para comer, malt-o-mallades, mini cucharadas de esmeriles.
+Cereales listos para comer, malta o meal, scooters de nueces de miel
+Cereales listos para comer, la mejor de las mamá, la nuez de miel Tasty O's
+Cereales listos para comer, el camino de la naturaleza, el lino orgánico más los copos
+Cereales listos para comer, post, grandes granos, pasas, fecha y nuez
+Cereales listos para comer, poste, miel races de avena, miel asada
+Cereales listos para comer, poste, trigo rallado, galleta original original
+Cereales listos para comer, Sun Country, Kretschmer Bran de trigo tostado
+Cereales listos para comer, Sun Country, Kretschmer Wheat Germ, regular
+Cereales, crema de trigo, regular (10 minutos), cocinado con agua, con sal
+Cereales, malta o malla, chocolate, preparado con agua, sin sal
+Cereales, cuáqueros, sémola de maíz, instantáneos, sabor a queso cheddar, seco
+Cereales, cuáquero, producto instantáneo con sabor a queso americano, seco
+Cereales, cuáqueros, sémola instantánea, sabor a queso de jamón 'n', seco
+Cereales, cuáquero, avena instantánea, huevos de dinosaurios, azúcar morena, seco
+Cereales, cuáquero, salvado de avena, quaker/madre de avena, seco
+Alimentos para bebés, cereales, alta proteína, con manzana y naranja, preparados con leche entera
+Cereales listos para comer, el camino de la naturaleza, el lino orgánico Plus, la granola de calabaza
+Cereales listos para comer, poste, trigo rallado n 'bran, tamaño de cuchara
+Cereales listos para comer, poste, trigo rallado, ligeramente helado, tamaño de cuchara
+Cereales listos para comer, cuáquero, granola 100% natural, avena, trigo y miel
+Cereales, sémola de maíz, blanco, regular y rápido, enriquecido, cocinado con agua, con sal
+Cereales, sémola de maíz, amarillo, regular, rápido, enriquecido, cocinado con agua, con sal
+Pan, pasas, desingráfica
+Cereales, crema de trigo, tiempo de cocción de 2 1/2 minutos, seco
+Cereales, malt-o-MEAL, original, simple, preparado con agua, sin sal
+Cereales, cuáquero, sémola instantánea, salsa redeé y sabor a jamón de campo, seco
+Cereales, cuáquero, avena instantánea, fruta y crema, variedad de sabores, azúcar reducida
+Comida para bebés, yogurt, leche entera, con fruta, cereal multigrano y dha agregado fortificado
+Bebidas, sustituto del café, bebida de grano de cereal, polvo, preparado con leche entera
+Cereales, sémola de maíz, amarillo, regular y rápido, enriquecido, cocinado con agua, sin sal
+Cereales, salvado de avena, cuáquero, quaker/madre de avena de madre, preparado con agua, sal
+Cereales, avena, instantánea, fortificada, simple, preparada con agua (agua hirviendo agregada o microondas)
+Cereales, cuáquero, salvado de avena, salvado de avena cuáquero/madre, preparado con agua, sin sal
+Cereales listos para comer, cuáquero, cuáquero 100% de granola natural con avena, trigo, miel y pasas
+Cereales, crema de trigo, tiempo de cocción de 1 minuto, cocinado con agua, microondas, sin sal
+Cereales, avena, regular y rápido e instantáneo, sin enriquecer, cocinado con agua (incluye ebullición y microondas), con sal
+Cereales, avena, regular y rápido, sin enriquecer, cocinado con agua (incluye ebullición y microondas), sin sal
+Comida para bebés, cereal de arroz, seco, el mejor grano integral orgánico de la Tierra, fortificado solo con hierro
+Cereales, crema de trigo, tiempo de cocción de 1 minuto, cocinado con agua, estufa, sin sal
+Cereales, Farina, marcas enriquecidas y variadas que incluyen crema de trigo, rápido (1-3 minutos), seco
+Cereales, cuáquero, arena de maíz, instantánea, simple, preparada (agua microondas o hirviendo), sin sal
+Cereales, crema de trigo, tiempo de cocción de 2 1/2 minutos, cocinado con agua, microondas, sin sal
+Cereales, crema de trigo, tiempo de cocción de 2 1/2 minutos, cocinado con agua, estufa, sin sal
+Cereales, Farina, marcas enriquecidas y variadas que incluyen crema de trigo, rápido (1-3 minutos), cocinado con agua, sin sal
+Incaparina, mezcla seca (harina de maíz y soja), sin preparación
+Mijo, hinchado
+Cereales, cuáquero, avena instantánea de control de peso, arce y azúcar morena
+Cereales, listos para comer, malta o carne, mini cucharadas de arándanos
+Cereales listos para comer, malt-o-MEAL, mezcladores de avena con miel y almendras
+Cereales listos para comer, cuáqueros, poca grasa 100% granola natural con pasas
+Cereales listos para comer, Sun Country, Kretschmer Honey Crunch Wheat Germen
+Pan de queso
+Pan, canela
+Pan de pan, moldí, pan de levadura dulce
+Pan, huevo, tostado
+Pan, avena, tostado
+Pan, centeno, tostado
+Pan, palos, liso
+Pan, trigo, brotado
+Pan de ajo, congelado
+Pan, blanco, preparado comercialmente (incluye migas de pan suave)
+Pan, Boston Brown, enlatado
+Pan, salvado de avena, tostado
+Pan, pita, blanco, enriquecido
+Pan, pita, trigo integral
+Pan, pasas, enriquecido, tostado
+Pan, calorías reducidas, avena
+Pan, salvado de arroz, tostado
+Pan, rollo, mexicano, bolillo
+Pan, relleno, mezcla seca
+Pan, trigo, brotado, tostado
+Pollo, sin carne, empanado, frito
+Pan de tenis, simple (Apache)
+Pan, maíz azul, somiviki (Hopi)
+Pan, migas, seco, rallado, liso
+Pan, francés o viena, trigo integral
+Pan, proteína, (incluye gluten), tostado
+Pan, relleno, pan de maíz, mezcla seca
+Pan, relleno, mezcla seca, preparada
+Pan, blanco, preparado comercialmente, tostado
+Pan, trigo integral, preparado comercialmente
+Licitaciones de pechuga de pollo, empanadas, crudas
+Licitaciones de pollo, empanadas, congeladas, preparadas
+Pollo, muslos, congelados, empanados, recalentados
+Comidas rápidas, camarones, empanados y fritos
+Pepitas de salmón, empanadas, congeladas, calentadas
+Acortamiento de pan, soja (hidrogenada) y algodón
+T.G.I.Viernes, camarones del viernes, empanado
+Palitos de pavo, empanados, maltratados, fritos
+Pan, chapati o roti, simple, preparado comercialmente
+Pan, refresco irlandés, preparado a partir de receta
+Pan, naan, simple, preparado comercialmente, refrigerado
+Pan, calorías reducidas, salvado de avena, tostado
+Pan, relleno, pan de maíz, mezcla seca, preparada
+Pan, trigo integral, preparado comercialmente, tostado
+Bendiciones de pechuga de pollo, empanadas, cocidas, con microondas
+Denny's, filete de pescado, golpeado o empanado, frito
+Comidas rápidas, anillos de cebolla, empanados y fritos
+Pescado, bagre, canal, cocinado, empanado y frito
+Pescado, croador, atlántico, cocinado, empanado y frito
+Moluscos, ostra, este, cocido, empanado y frito
+Popeyes, pollo frito, suave, piel y empanado
+Restaurante, estilo familiar, camarones, empanado y frito
+Restaurante, latino, arpa (pan de maíz sin levadura)
+Pan, plátano, preparado a partir de receta, hecho con margarina
+Pan, múltiple grano, tostado (incluye grano integral)
+Pan, naan, trigo integral, preparado comercialmente, refrigerado
+Pan, paratha, trigo integral, preparado comercialmente, congelado
+Pan, blanco, preparado comercialmente, bajo sodio, sin sal
+Pan, trigo integral, preparado a partir de receta, tostado
+Crustáceos, camarones, especies mixtas, cocinadas, empanadas y fritas
+KFC, pollo frito, más crujiente, piel y empanado
+KFC, pollo frito, receta original, piel y empanado
+Moluscos, almejas, especies mixtas, cocinadas, empanadas y fritas
+Moluscos, vieira, especies mixtas, cocinadas, empanadas y fritas
+Anillos de cebolla, empanados, par fritos, congelados, sin preparación
+Encurtidos, pepino, dulce (incluye pan y mantequilla en encurtidos)
+Pan de piki, hecho de harina de maíz azul (Hopi)
+Rudi's, panadería sin gluten, pan de sándwich original
+Almuerzo escolar, nuggets de pollo, granos enteros empanado
+Almuerzo escolar, empanada de pollo, gran grano empanado
+Subway, albóndigas marinara sub sobre pan blanco (sin ingredientes)
+Metro, submarino en pan blanco con lechuga y tomate
+Pan, chapati o roti, trigo integral, preparado comercialmente, congelado
+Pan, bizcocho tipo pastel, pan de torta salvador
+Pan, blanco, preparado comercialmente, tostado, bajo sodio sin sal
+Comidas rápidas, pollo, empanado y fritos, piezas deshuesadas, lisas
+Comidas rápidas, pollo frito, pechuga, carne y piel y empanamiento
+Comidas rápidas, pollo frito, baqueta, carne y piel con empanado
+Comidas rápidas, pollo frito, muslo, carne y piel y empanamiento
+Comidas rápidas, pollo frito, ala, carne y piel y empanamiento
+Comidas rápidas, sándwich submarino, marinara de albóndigas sobre pan blanco
+Popeyes, pollo frito, suave, pechuga, carne y piel con empanado
+Popeyes, pollo frito, suave, baqueta, carne y piel con empanado
+Popeyes, pollo frito, suave, muslo, carne y piel con empanado
+Popeyes, pollo frito, suave, ala, carne y piel con empanado
+Restaurante, estilo familiar, filete de pescado, maltratado o empanado, frito
+Pan blanco schar, sin gluten, sin trigo, clásico
+Subway, B.L.T.Sub sobre pan blanco con tocino, lechuga y tomate
+Udi's, pan de sándwich blanco sin gluten, suave y delicioso
+Udi's, pan de grano integral sin gluten, suave y abundante
+Pan, pan de maíz, mezcla seca, enriquecido (incluye mezcla de muffins de maíz)
+Pan, blanco, preparado a partir de receta, hecho con leche seca sin grasa
+Comidas rápidas, pollo frito, piel y empanado de todas las piezas
+Comidas rápidas, sándwich submarino, tocino, lechuga y tomate sobre pan blanco
+KFC, pollo frito, más crujiente, pechuga, carne y piel con empanado
+KFC, pollo frito, extra crujiente, baqueta, carne y piel con empanado
+KFC, pollo frito, más crujiente, muslo, carne y piel con empanado
+KFC, pollo frito, más crujiente, ala, carne y piel con empanado
+KFC, pollo frito, receta original, pechuga, carne y piel con empanado
+KFC, pollo frito, receta original, baqueta, carne y piel con empanado
+KFC, pollo frito, receta original, muslo, carne y piel con empanado
+KFC, pollo frito, receta original, ala, carne y piel con empanado
+Anillos de cebolla, empanados, par fríados, congelados, preparados, calentados en el horno
+Encurtidos, pepino, dulce, bajo en sodio (incluye pan y mantequilla en encurtidos)
+Pan, pan de maíz, mezcla seca, preparada con 2% de leche, 80% de margarina y huevos
+Pan, pan de maíz, preparado a partir de receta, hecho con leche baja (2%) de leche
+Pan, sin gluten, blanco, hecho con harina de arroz, almidón de maíz y/o tapioca
+Pan, sin gluten, blanco, hecho con almidón de tapioca y harina de arroz marrón
+Comidas rápidas, pollo frito, pechuga, carne solamente, piel y empanado eliminados
+Comidas rápidas, pollo frito, buque de batería, solo carne, piel y empanado eliminados
+Comidas rápidas, pollo frito, muslo, solo carne, piel y empanado eliminados
+Comidas rápidas, pollo frito, ala, solo carne, piel y empanado eliminados
+Popeyes, pollo frito, suave, pechuga, solo carne, piel y empanado eliminados
+Popeyes, pollo frito, suave, baqueta, solo carne, piel y empanado eliminados
+Popeyes, pollo frito, suave, muslo, solo carne, piel y empanado eliminados
+Popeyes, pollo frito, suave, ala, solo carne, piel y empanado eliminados
+Subway, Steak & Cheese Sub en pan blanco con queso americano, lechuga y tomate
+Pan, sin gluten, blanco, hecho con extracto de papa, almidón de arroz y harina de arroz
+Pan, sin gluten, grano integral, hecho con almidón de tapioca y harina de arroz marrón
+Comidas rápidas, sándwich submarino, filete y queso en pan blanco con queso, lechuga y tomate
+KFC, pollo frito, más crujiente, pechuga, carne solamente, piel y empanado eliminados
+KFC, pollo frito, extra crujiente, baqueta, solo carne, piel y empanamiento eliminado
+KFC, pollo frito, extra crujiente, muslo, solo carne, piel y empanado eliminados
+KFC, pollo frito, extra crujiente, ala, solo carne, piel y empanado eliminados
+KFC, pollo frito, receta original, pechuga, solo carne, piel y empanado eliminados
+KFC, pollo frito, receta original, baqueta, solo carne, piel y empanado eliminados
+KFC, pollo frito, receta original, muslo, solo carne, piel y empanado eliminados
+Salsa, pescado, listo para servir
+KFC, pollo frito, receta original, ala, solo carne, piel y empanado eliminados
+Ternera, pierna (superior), magro y grasa separables, cocidas, fritas, empanadas
+Ternera, pierna (superior redonda), solo delgado separable, cocido, frito, empanado
+Ternera, pierna (arriba redonda), solo delgado separable, cocido, frito, no empanado
+Comidas rápidas, sándwich submarino, pavo, carne asada y jamón sobre pan blanco con lechuga y tomate
+Metro, cebolla dulce pollo teriyaki sub en pan blanco con lechuga, tomate y salsa de cebolla dulce
+Comidas rápidas, sándwich submarino, pollo de cebolla dulce teriyaki sobre pan blanco con lechuga, tomate y salsa de cebolla dulce
+Comidas rápidas, hamburguesa con queso;doble, gran empanada;con condimentos
+Comidas rápidas, hamburguesa con queso;empanada doble, regular;con condimentos
+Comidas rápidas, hamburguesa con queso;soltera, gran empanada;con condimentos
+Comidas rápidas, hamburguesa con queso;empanada soltera y regular, con condimentos
+Comidas rápidas, hamburguesa, empanada soltera grande, con condimentos
+Comidas rápidas, hamburguesa;empanada soltera y regular;con condimentos
+Comidas rápidas, bagel, con filete de desayuno, huevo, queso y condimentos
+Comidas rápidas, bagel, con huevo, salchicha, queso y condimentos
+Comidas rápidas, hamburguesa con queso, doble, empanada regular y moño, con condimentos
+Comidas rápidas, hamburguesa con queso;doble, gran empanada;con condimentos, verduras y mayonesa
+Comidas rápidas, hamburguesa con queso;soltera, gran empanada;con condimentos, verduras y mayonesa
+Comidas rápidas, hamburguesa;doble, gran empanada;con condimentos, verduras y mayonesa
+Comidas rápidas, hamburguesa;soltera, gran empanada;con condimentos, verduras y mayonesa
+Sopa, fideos de pollo, enlatado, condensado
+Sopa, fideos de pollo, seco, mezcla
+Sopa, fideos de pollo, seco, mezclar, preparado con agua
+Sopa, fideos de pollo, bajo en sodio, enlatado, preparado con agua de igual volumen
+Sopa, fideos de pollo, sodio reducido, enlatado, listo para servir
+Sopa, arroz con pollo, enlatado, grueso, listo para servir
+Sopa, verdura de pollo con papa y queso, grueso, listo para servir
+Sopa, verdura de pollo, enlatado, condensado
+Sopa, pollo con arroz, enlatado, condensado
+Sopa, pollo, enlatado, grueso, listo para servir
+Sopa, carne de res de chile, enlatada, condensada
+Sopa, carne de res chile, enlatada, preparada con agua de igual volumen
+Sopa, carne gruesa, enlatada, lista para servir
+Sopa, fideos de pollo gruesos, enlatados, listos para servir
+Sopa, vegetal grueso, enlatado, listo para servir
+Sopa, vegetales gruesos, sodio reducido, enlatado, listo para servir
+Sopa, sopa de almejas, estilo de Manhattan, enlatado, grueso, listo para servir
+Sopa, sopa de almejas, Manhattan, enlatada, condensada
+Sopa, sopa de almejas, Nueva Inglaterra, enlatada, condensada
+Sopa, sopa de almejas, Nueva Inglaterra, sodio reducido, enlatado, listo para servir
+Sopa, crema de espárragos, enlatado, condensado
+Sopa, crema de apio, enlatada, condensada
+Sopa, crema de pollo, enlatada, condensada
+Sopa, crema de pollo, enlatado, condensado, sodio reducido
+Sopa, crema de pollo, seca, mezcla, preparada con agua
+Sopa, crema de champiñones, enlatado, condensado
+Sopa, crema de champiñones, enlatado, condensado, reducción de sodio
+Sopa, crema de champiñones, enlatada, preparada con agua de igual volumen
+Sopa, crema de champiñones, bajo sodio, listo para servir, enlatado
+Sopa, crema de cebolla, enlatada, condensada
+Sopa, crema de papa, enlatada, condensada
+Sopa, crema de camarones, enlatado, condensado
+Sopa, crema de camarones, enlatadas, preparadas con igual volumen bajo grasa (2%) leche
+Sopa, crema de vegetales, seco, polvo
+Sopa, caída de huevo, restaurante chino
+Sopa, sopa de pollo y arroz de elección saludable, enlatada
+Sopa, sopa de fideos de pollo de elección saludable, enlatada
+Sopa, sopa de verduras de jardín de elección saludable, enlatada
+Sopa, caliente y agrio, restaurante chino
+Sopa, lenteja con jamón, enlatada, lista para servir
+Sopa, minestrone, enlatada, gruesa, lista para servir
+Sopa, minestrone, enlatada, condensada
+Sopa, minestrone, enlatado, sodio reducido, listo para servir
+Sopa, cebada de champiñones, enlatado, condensado
+Sopa, cebada de hongos, enlatada, preparada con agua de igual volumen
+Sopa, champiñones con caldo de carne, enlatado, condensado
+Sopa, hongo con caldo de carne, enlatado, preparado con agua de igual volumen
+Sopa, cebolla, enlatada, condensada
+Sopa, cebolla, seca, mezcla
+Sopa, cebolla, seca, mezcla, preparada con agua
+Sopa, estofado de ostras, enlatado, condensado
+Sopa, guisante, verde, enlatado, condensado
+Sopa, guisante, bajo sodio, preparado con agua de igual volumen
+Sopa, guisante, dividido con jamón, enlatado, grueso, listo para servir
+Sopa, guisante, dividido con jamón, enlatado, condensado
+Sopa, fideos de ramen, cualquier sabor, seco
+Sopa, fideos ramen, sabor a carne de res, seco
+Sopa, fideos ramen, sabor a pollo, seco
+Sopa, fideos ramen, seco, cualquier sabor, grasa reducida, sodio reducido
+Sopa, aleta de tiburón, preparado en restaurantes
+Sopa, caldo, carne de res, preparada en el hogar
+Sopa, caldo, pollo, preparado para el hogar
+Sopa, caldo, pescado, preparado para el hogar
+Sopa, swanson, caldo de carne, sodio inferior
+Sopa, Swanson, caldo de verduras
+Sopa, carne de res con fideos, enlatados, condensados
+Sopa, carne de res con fideos, enlatado, preparado con agua de igual volumen
+Sopa, bisque de tomate, enlatado, condensado
+Sopa, bisque de tomate, enlatada, preparada con leche de igual volumen
+Sopa, arroz de tomate, enlatado, condensado
+Sopa, tomate, enlatado, condensado
+Sopa, tomate, enlatado, condensado, sodio reducido
+Sopa, tomate, enlatado, preparado con agua de igual volumen, comercial
+Sopa, tomate, seco, mezcle, preparado con agua
+Sopa, tomate, bajo sodio, con agua
+Sopa, fideos de pavo, enlatado, preparado con agua de igual volumen
+Sopa, vegetal de pavo, enlatado, preparado con agua de igual volumen
+Sopa, pavo, grueso, enlatado, listo para servir
+Sopa, carne de res vegetal, enlatada, condensada
+Sopa, carne de res vegetal, microondas, lista para solsar, marca individual
+Sopa, caldo de verduras, listo para servir
+Sopa, pollo vegetal, enlatado, preparado con agua, bajo sodio
+Sopa, sopa de verduras, condensado, bajo en sodio, preparado con agua de igual volumen
+Sopa, vegetal con caldo de carne, enlatado, condensado
+Sopa, vegetal, enlatado, bajo sodio, condensado
+Sopa, vegetal vegetariano, enlatado, condensado
+Sopa, wonton, restaurante chino
+Sopa de guisantes dividido, enlatado, reducido de sodio, preparado con agua o listo para servir
+Pea dividido con sopa de jamón, enlatado, reducido de sodio, preparado con agua o listo para servir
+Wasabi
+Salsa, mezcla de salsa de queso, seca
+Salsa, barbacoa
+Salsa, salsa de chile de tomate, embotellada, con sal
+Salsa de guayaba, cocida
+Ravioli, lleno de carne, con salsa de tomate o salsa de carne, enlatado
+Salsa, maní, hecho de mantequilla de maní, agua, salsa de soja
+Salsa de arándano, enlatada, endulzada
+Salsa, mezcla de Alfredo, seco
+Salsa, barbacoa, kraft, original
+Salsa, queso, listo para servir
+Salsa, cóctel, listo para servir
+Salsa, pato, listo para servir
+Salsa, hoisin, listo para servir
+Salsa, casera, blanca, mediana
+Salsa, chile caliente, sriracha
+Salsa, ostra, lista para ser
+Salsa, ciruela, lista para servir
+Salsa, salsa, listo para ser
+Salsa, bistec, tomate a base de tomate
+Salsa, tártaro, listo para servir
+Salsa, teriyaki, listo para servir
+Productos de tomate, enlatado, salsa
+Salsa de queso, preparada a partir de receta
+Lasaña con carne y salsa, entrado congelado
+Lasaña con salsa de carne, congelada, preparada
+Jardín de oliva, espagueti con salsa de carne
+Restaurante, italiano, espagueti con salsa de carne
+Salsa, barbacoa, bull's-eye, original
+Salsa, barbacoa, obra maestra de KC, original
+Salsa, barbacoa, pozo abierto, original
+Salsa, pesto, listo para servir, refrigerado
+Salsa, pizza, enlatada, lista para servir
+Salsa, lista para servir, pimienta o caliente
+Salsa, lista para servir, pimienta, Tabasco
+Salsa, salsa, verde, listo para servir
+Salsa, sofrito, preparado a partir de receta
+Salsa, dulce y agria, lista para servir
+Espagueti con salsa de carne, entrante congelado
+Espagueti, con albóndigas en salsa de tomate, enlatado
+Productos de tomate, enlatados, salsa, con champiñones
+Salsa de tomate, enlatada, sin sal agregada
+Tomate, salsa, enlatado, con sal agregada
+Salsa, barbacoa, dulce bebé ray, original
+Salsa, enchilada, roja, suave, lista para servir
+Salsa, teriyaki, listo para servir, reducción de sodio
+Comida para bebés, ravioles, queso lleno, con salsa de tomate
+Frijoles, horneados, enlatados, con cerdo y salsa dulce
+Grill italiana de Carrabba, espagueti con salsa de carne
+Salsa de arándano, gelatina, enlatada, spray oceánica
+Salsa de arándano, entero, enlatado, spray oceánico
+Comidas rápidas, sándwich de pescado, con salsa tártara
+Olive Garden, ravioles de queso con salsa marinara
+Salsa, chile, pimientos, calientes, verde inmaduro, enlatado
+Salsa, chile caliente, sriracha, cha!Por Texas Pete
+Salsa, pimientos, picantes, chile, rojo maduro, enlatado
+Salsa, pesto, clásico, pesto de albahaca, listo para servir
+Salsa, blanca, delgada, preparada desde la receta, con mantequilla
+Comida para bebés, cena, macarrones con salsa de carne de res y tomate, niño pequeño
+Macarrones con queso y queso, mezcla de caja con salsa de queso, preparado
+Macarrones con queso, mezcla de caja con salsa de queso, sin preparación
+McDonald's, Big Mac (sin salsa Big Mac)
+Papas, patatas fritas, congeladas, con salsa de mantequilla, preparado
+PATATAS, CONSH MARRÓN, congelado, con salsa de mantequilla, sin preparación
+Salsa, maní, hecho de coco, agua, azúcar, maní
+Salsa, pesto, buitoni, pesto con albahaca, listo para servir, refrigerado
+Macaroni de carne con salsa de tomate, entrado congelado, grasa reducida
+Cena de macarrones con queso con salsa seca, en caja, cruda
+Productos de tomate, enlatados, salsa, con cebollas, pimientos verdes y apio
+Rotación, salsa a base de tomate llena de queso, congelado, sin preparación
+Comidas rápidas, pollo crujiente en tortilla, con lechuga, queso y salsa de rancho
+Comidas rápidas, pollo a la parrilla en tortilla, con lechuga, queso y salsa de rancho
+Pescado, sardina, pacífico, enlatado en salsa de tomate, sólidos drenados con hueso
+Salsa de soja hecha de soja y trigo (shoyu), bajo sodio
+Salsa de soja, reducida de sodio, hecha de proteína vegetal hidrolizada
+Salsa, pesto, mezzetta, napa valle bistro, albahaca pesto, listo para servir
+Helado, Lowfat, sin azúcar agregado, cono, maní agregado y salsa de chocolate
+Ravioli, queso con salsa de tomate, congelado, no preparado, incluye platos regulares y ligeros
+Voleaje, salsa a base de tomate llena de carne y queso, grasa reducida, congelada
+Margarina, industrial, soya y aceite de soya hidrogenada parcialmente, uso para hornear, salsas y dulces
+Comidas rápidas, hamburguesa con queso;empanada doble, regular;bollo de dos pisos con condimentos y salsa especial
+Comidas rápidas, hamburguesa;empanada soltera y regular;bollo de dos pisos con condimentos y salsa especial
+Campbell's Chunky, clásica sopa de fideos de pollo
+Sopa de carne de res vegetal de Campbell's Chunky, antigua
+Campbell's, sopa de fideos de pollo, condensado
+Campbell's, crema de sopa de hongos, condensado
+Campbell's, sopa de tomate, condensado
+Salsa, frijoles, sabor original
+Dip, Frito's, frijoles, sabor original
+Salsa, salsa con queso, queso y salsa- mediana
+Inmersión, tostitos, salsa con queso, medio
+Salsa, au jus, enlatada
+Salsa, carne de res, enlatada, lista para servir
+Salsa, marrón instantáneo, seco
+Salsa, marrón, seca
+Salsa, Campbell's, pollo
+Salsa, pollo, enlatado o embotellado, listo para servir
+Salsa, pollo, seco
+Cardo, crudo
+Salsa, estilo casero de Heinz, pollo clásico
+Salsa, estilo de hogar Heinz, carne sabrosa
+Salsa, carne instantánea, seca
+Salsa, pavo instantáneo, seco
+Salsa, carne o aves de corral, bajo sodio, preparado
+Salsa, hongo, enlatado
+Salsa, hongo, seco, polvo
+Salsa, cebolla, seca, mezcla
+Salsa, cerdo, seca, polvo
+Salsa, pavo, enlatado, listo para servir
+Salsa, pavo, seco
+Salsa, tipo no especificado, seco
+Sopa de papa, instantánea, mezcla seca
+Sopa inteligente, lenteja francesa
+Sopa, frijoles y jamón, enlatado, sodio reducido, preparado con agua o listo para ser reservado
+Sopa, frijoles con tocino, condensado, marca individual
+Sopa, frijol con frankfurters, enlatado, condensado
+Sopa, frijoles con jamón, enlatado, grueso, listo para servir
+Sopa, frijoles con cerdo, enlatado, condensado
+Sopa, frijoles con carne de cerdo, enlatada, preparada con agua de igual volumen
+Sopa, carne de res y champiñones, bajo sodio, estilo trozo
+Sopa, carne de res y verduras, enlatadas, listas para servir
+Sopa, carne de res y verduras, sodio reducido, enlatado, listo para servir
+Sopa, cebada de carne, lista para servir
+Sopa, caldo de carne de alquiler y consomé, enlatado, condensado
+Sopa, caldo de carne o caldo enlatado, listo para servir
+Sopa, caldo de carne o cala, polvo, seco
+Sopa, caldo de carne, caldo, consomé, preparado con agua de igual volumen
+Sopa, caldo de carne, en cubos, seco
+Sopa, caldo de carne de res, menos/sodio reducido, listo para servir
+Sopa, hongo de res, enlatado, condensado
+Sopa, fideos de carne, enlatado, condensado
+Sopa, carne de res stroganoff, enlatado, estilo grueso, listo para servir
+Sopa, frijoles negros, enlatado, condensado
+Sopa, cubos y gránulos de alquiler, bajo sodio, seco
+Sopa, queso de brócoli, enlatado, condensado, comercial
+Sopa, queso, enlatado, condensado
+Sopa, pollo y verdura, enlatado, listo para servir
+Sopa, cubitos de caldo de pollo, seco
+Sopa, cubitos de caldo de pollo, seco, preparado con agua
+Sopa, caldo de pollo o caldo, seco
+Sopa, caldo de pollo o caldo, seco, preparado con agua
+Sopa, caldo de pollo, enlatado, condensado
+Sopa, caldo de pollo, menos/sodio reducido, listo para servir
+Sopa, caldo de pollo, bajo sodio, enlatado
+Sopa, caldo de pollo, listo para servir
+Sopa, sopa de maíz de pollo, gruesa, lista para servir, marca individual
+Sopa, pollo gumbo, enlatado, condensado
+Sopa, champiñones de pollo, enlatado, condensado
+Carne de cerdo tirada en salsa de barbacoa
+Loganberries, congelado
+Albaricoques, congelados, endulzados
+Espárragos, congelados, sin preparación
+Moras, congeladas, sin azúcar
+Arándanos, congelados, endulzados
+Boysenberries, congelados, sin azúcar
+Zanahorias, congeladas, sin preparación
+Coliflor, congelado, sin preparación
+Durian, crudo o congelado
+Edamame, congelado, preparado
+Yogures congelados, chocolate
+Col rizada, congelada, sin preparación
+Bolas de melón, congeladas
+Nance, congelado, sin azúcar
+Okra, congelada, sin preparación
+Ruibarbo, congelado, crudo
+Turquía y salsa, congelada
+Nabos, congelados, sin preparación
+Brócoli, congelado, picado, sin preparación
+Coles de Bruselas, congeladas, sin preparación
+Burrito, frijoles y queso, congelado
+Burrito, carne de res y frijoles, congelados
+Empanada de pollo, congelada, cocida
+Coloque, congelado, picado, sin preparación
+Perros de maíz, congelados, preparados
+Huevos, mezcla de revuelto, congelada
+Helechos de Fiddlehead, congelados, sin preparación
+Lasaña, queso, congelado, preparado
+Lasaña, vegetal, congelada, horneada
+Limonada, concentrado congelado, rosa
+Macarrones con queso, entrada congelada
+Albóndigas, congelados, estilo italiano
+Mostaza Verdes, congelados, sin preparación
+Cebollas, congeladas, picadas, sin preparación
+Cebollas, congeladas, sin preparación
+Duraznos, congelados, rebanados, endulzados
+Guisantes y zanahorias, congeladas, sin preparación
+Guisantes y cebollas, congelados, sin preparación
+Piña, congelada, trozos, endulzados
+Rollos de pizza, congelados, sin preparación
+Patatas de papa, congeladas, sin preparación
+Papas, O'Brien, congeladas, preparadas
+Frambuesas, congeladas, rojas, endulzadas
+Ruibarbo, congelado, cocido, con azúcar
+Salisbury Steak con salsa, congelado
+Fresas, congeladas, endulzadas, en rodajas
+Tofu, seco-congelado (koyadofu)
+Nabo los verdes, congelados, sin preparación
+Verduras, mixtas, congeladas, sin preparación
+Alcachofas, (globo o francés), congelado, sin preparación
+Galletas, lisas o suero de mantequilla, congeladas, horneadas
+Arándanos, salvajes, congelados (nativos de Alaska)
+Cóctel de jugo de arándano, concentrado congelado
+Postre Topping, semi sólido, congelado
+Dumpling, lleno de papas o queso, congelado
+Rollos de huevo, vegetales, congelados, preparados
+Huevo, blanco, crudo, congelado, pasteurizado
+Huevo, entero, crudo, congelado, pasteurizado
+Huevo, yema, crudo, congelado, pasteurizado
+Pescado, palitos de pescado, congelado, preparado
+Tostadas francesas, congeladas, listas para usar
+Novedades congeladas, barras de frutas y jugo
+Novedades congeladas, tipo de hielo, lima
+Novedades congeladas, tipo de jugo, naranja
+Yogures congelados, chocolate, servidor suave
+Yogures congelados, vainilla, servidor suave
+Limaade, concentrado congelado, preparado con agua
+Naranjilla (lulo) pulpa, congelada, sin azúcar
+Guisantes, con poddeo comestible, congelado, sin preparación
+Hojaldre, congelado, listo para hornear
+Squash, invierno, butternut, congelado, sin preparación
+Succotash, (maíz y limas), congelado, sin preparación
+Batata, folletos, congelados, sin preparación
+Pastel de olla de pavo, entrante congelado
+Nabe verdes y nabos, congelados, sin preparación
+Waffles, suero de leche, congelado, listo para usar
+Waffles, lisos, congelados, listos para usar
+Cobertura batida, congelada, baja en grasa
+Espárragos, congelados, cocidos, hervidos, drenados, con sal
+Frijoles, pinto, semillas inmaduras, congeladas, sin preparación
+Pastel de olla de ternera, plato congelado, preparado
+Carne de res, molidas, empanadas, congeladas, cocidas, asadas
+Bebidas, bebida de fruta, concentrado congelado
+Zanahorias, congeladas, cocidas, hervidas, drenadas, con sal
+Coliflor, congelado, cocido, hervido, drenado, con sal
+Pastel de pollo, entrante congelado, preparado
+Pollo, ala, congelado, glaseado, con sabor a la barbacoa
+Maíz, amarillo, núcleo entero, congelado, microondas
+Cowpeas (Blackeyes), semillas inmaduras, congeladas, sin preparación
+Sustituto de huevo, líquido o congelado, sin grasa
+Huevo, entero, crudo, congelado, salado, pasteurizado
+Huevo, yema, crudo, congelado, salado, pasteurizado
+Huevo, yema, crudo, congelado, azucarado, pasteurizado
+Novedades congeladas, sin azúcar agregada, fudgsicle pops
+Novedades congeladas, sin azúcar, pops de crema
+Heinz, Weight Watcher, Chocolate Eclair, Frozen
+Col rizada, congelada, cocida, hervida, drenada, con sal
+Limonada, concentrado congelado, blanco, preparado con agua
+Okra, congelada, cocida, hervida, drenada, con sal
+Jugo de naranja, concentrado congelado, sin azúcar, sin diluir
+Panqueques, sin gluten, congelado, listo para usar
+Pimientos, dulces, verdes, congelados, picados, sin preparación
+Pimientos, dulces, rojos, congelados, picados, sin preparación
+Jugo de piña, concentrado congelado, sin azúcar, sin diluir
+Papas, hash marrón, congelado, simple, sin preparación
+Potsticker o wonton, cerdo y vegetales, congelado, sin preparación
+Hojaldre, congelado, listo para hornear, horneado
+Squash, verano, cornecos y cuello recto, congelado, sin preparación
+Batata, congelada, cocida, horneada, con sal
+Taquitos, congelados, carne de res y queso, calentado por el horno
+Taquitos, congelados, pollo y queso, calentado
+Nabos, congelados, cocidos, hervidos, drenados, con sal
+Rotación, llena de huevo, carne y queso, congelado
+Waffle, suero de leche, congelado, listo para usar, con microondas
+Waffle, simple, congelado, listo para usar, microondas
+Waffles, chispas de chocolate, congelados, listos para usar
+Waffles, sin gluten, congelado, listo para usar
+Waffles, lisos, congelados, listos para calentar, tostado
+Frijoles, complementos, verdes, congelados, todos estilos, microondas
+Frijoles, chasquidos, amarillos, congelados, todos estilos, sin preparación
+Bebidas, bebida de jugo de fruta cítrica, concentrado congelado
+Bebidas, mezcla de cócteles, no alcohólico, concentrado, congelado
+Bebidas, bebida de jugo de puñetazo, concentrado congelado
+Bebidas, limonada, concentrado congelado, rosa, preparado con agua
+Brócoli, congelado, picado, cocido, hervido, drenado, con sal
+Brócoli, congelado, lanzas, cocinado, hervido, drenado, con sal
+Flores de calabaza, crudas
+Brotes de Bruselas, congeladas, cocidas, hervidas, drenadas, con sal
+Pollo, pepitas, carne blanca, precocida, congelada, no recalentada
+Coloque, congelado, picado, cocido, hervido, drenado, con sal
+Maíz, dulce, blanco, congelado, granos sobre mazorca, sin preparación
+Maíz, dulce, amarillo, congelado, granos sobre mazorca, sin preparación
+Cóctel de jugo de arándano, concentrado congelado, preparado con agua
+Novedades congeladas, tipo de helado, helado, preempaquetado
+Novedades congeladas, tipo de hielo, fruta, sin azúcar agregado
+Novedades congeladas, tipo de hielo, italiano, preparado en restaurantes
+Novedades congeladas, klondike, cono de chocolate Slim-A-Bear
+Novedades congeladas, Klondike, Slim-A-Bear Vanilla Sandwich
+Jugo de toronja, concentrado blanco, congelado, sin azúcar, sin diluir
+Bolsillos calientes, albóndigas y mozzarella Sándwich relleno, congelado
+Hombre hambriento, bistec salisbury con salsa, congelada, sin preparación
+Frijoles de lima, semillas inmaduras, congeladas, bebé, sin preparación
+Frijoles de lima, semillas inmaduras, congeladas, vados, sin preparación
+Postre de leche, congelado, sin leche sin grasa, chocolate
+Mostaza Verdes, congelados, cocidos, hervidos, drenados, con sal
+Cebollas, congeladas, picadas, cocidas, hervidas, drenadas, con sal
+Cebollas, congeladas, enteras, cocidas, hervidas, drenadas, con sal
+Panqueques lisos, congelados, listos para calentar (incluye suero de leche)
+Guisantes y zanahorias, congeladas, cocidas, hervidas, drenadas, con sal
+Guisantes y cebollas, congelados, cocidos, hervidos, drenados, con sal
+Guisantes, verdes, congelados, cocidos, hervidos, drenados, con sal
+Pizza, cobertura de queso, corteza regular, congelada, cocida
+Pizza, cobertura de queso, corteza ascendente, congelada, cocida
+Pizza, cobertura de queso, corteza delgada, congelada, cocida
+Pizza, cobertura de carne, corteza espesa, congelada, cocida
+Pizza, cobertura de pepperoni, corteza regular, congelada, cocida
+Papas, fritas francesas, cortadas cruzadas, congeladas, sin preparación
+PATATAS, French Fried, Wedge Cut, congelado, sin preparación
+Papas, congeladas, enteras, cocidas, hervidas, drenadas, con sal
+Papas, asadas, sal agregada en procesamiento, congelado, sin preparación
+Papas, amarillo carnoso, francés frito, congelado, sin preparación
+Squash, verano, calabacín, incluye piel, congelado, sin preparación
+Squash, invierno, butternut, congelado, cocido, hervido, con sal
+Batatas, frito francés, cortes cruzados, congelados, sin preparación
+Tofu, secado-congelado (koyadofu), preparado con sulfato de calcio
+Verdes para nabos, congelados, cocidos, hervidos, drenados, con sal
+Verduras, mezcladas, congeladas, cocidas, hervidas, drenadas, con sal
+Waffles, trigo integral, bajo grasa, congelado, listo para usar
+Yogurt, congelado, sabores distintos al chocolate, bajo en grasa
+Alcachofas, (globo o francés), congelado, cocido, hervido, drenado, con sal
+Banquete, bistec salisbury con salsa, tamaño familiar, congelado, sin preparación
+Frijoles, chasquidos, verdes, congelados, cocidos, hervidos, drenados, con sal
+Frijoles, chasquidos, amarillos, congelados, cocidos, hervidos, drenados, con sal
+Bebidas, bebida de fruta, concentrado congelado, preparado con agua
+Pastel, libra, preparado comercialmente, mantequilla (incluye fresco y congelado)
+Pollo, pepitas, carne oscura y blanca, precocida, congelada, no recalentada
+Pollo, ala, congelado, glaseado, con sabor a barbacoa, calentado (microondas)
+Pizza Digiorno, cobertura de queso, corteza creciente, congelada, horneada
+Pizza Digiorno, cobertura de pepperoni, corteza ascendente, congelada, horneada
+Pizza Digiorno, cobertura suprema, corteza ascendente, congelada, horneada
+Novedades congeladas, tipo de hielo, pop, con edulcorante bajo en calorías
+Yogures congelados, chocolate, leche sin grasa, endulzada sin azúcar
+Bolsos calientes de jamón n sándwich relleno de queso, congelado
+Barra de postre de leche, congelada, hecha de leche baja en grasa
+Jugo de naranja, concentrado congelado, sin azúcar, sin diluir, con calcio agregado
+Panqueques, lisos, congelados, listos para calificar, microondas (incluye suero de leche)
+Guisantes, con poddeo comestible, congelado, cocido, hervido, drenado, con sal
+Pimientos, dulces, rojos, congelados, picados, hervidos, drenados, con sal
+Corteza de pastel, tipo estándar, congelado, listo para hornear, enriquecido
+Pizza, cobertura de carne y verduras, corteza regular, congelada, cocida
+Pizza, cobertura de carne y vegetales, corteza ascendente, congelada, cocida
+Carne de cerdo, frescas, carnes de variedades y subproductos, orejas, congelados, crudos
+Papas, congeladas, fritas francesas, par fried, extruidas, sin preparación
+Nabos, congelados, cocidos, hervidos, drenados, sin sal
+Brócoli, congelado, picado, cocido, hervido, drenado, sin sal
+Brócoli, congelado, lanzas, cocinado, hervido, drenado, sin sal
+Brotes de Bruselas, congeladas, cocidas, hervidas, drenadas, sin sal
+Coloque, congelado, picado, cocido, hervido, drenado, sin sal
+Mostaza Verdes, congelados, cocidos, hervidos, drenados, sin sal
+Cebollas, congeladas, picadas, cocidas, hervidas, drenadas, sin sal
+Cebollas, congeladas, enteras, cocidas, hervidas, drenadas, sin sal
+Guisantes y zanahorias, congeladas, cocidas, hervidas, drenadas, sin sal
+Guisantes y cebollas, congelados, cocidos, hervidos, drenados, sin sal
+Guisantes, verdes, congelados, cocidos, hervidos, drenados, sin sal
+Papas, congeladas, enteras, cocidas, hervidas, drenadas, sin sal
+Almuerzo escolar, pizza, salchicha de pizza de desayuno de Tony, congelado
+Espinacas, congeladas, picadas o de hoja, cocidas, hervidas, drenadas, con sal
+Squash, invierno, butternut, congelado, cocido, hervido, sin sal
+Succotash, (maíz y limas), congelado, cocido, hervido, drenado, con sal
+Nabe verdes y nabos, congelados, cocidos, hervidos, drenados, con sal
+Verdes para nabos, congelados, cocidos, hervidos, drenados, sin sal
+Rotación de rotación, pollo o pavo y vegetales, grasa reducida, congelada
+Jugo de manzana, concentrado congelado, sin azúcar, sin diluir, con ácido ascórbico adicional
+Alcachofas, (globo o francés), congelado, cocinado, hervido, drenado, sin sal
+Frijoles, pinto, semillas inmaduras, congeladas, cocidas, hervidas, drenadas, con sal
+Frijoles, chasquidos, verdes, congelados, cocidos, hervidos, drenados sin sal
+Bebidas, bebida de jugo de fruta cítrica, concentrado congelado, preparado con agua
+Bebidas, bebida de jugo de puñetazo, concentrado congelado, preparado con agua
+Bebidas, bebida naranja, tipo de desayuno, con jugo y pulpa, concentrado congelado
+Bebidas, bebida con sabor naranja, tipo de desayuno, pulpa, concentrado congelado.
+Arándanos, congelados, sin azúcar (incluye alimentos para el programa de distribución de alimentos del USDA)
+Arándanos, Wild, Frozen (incluye alimentos para el programa de distribución de alimentos del USDA)
+Zanahorias, congeladas, sin preparación (incluye alimentos para el programa de distribución de alimentos del USDA)
+Maíz, dulce, blanco, congelado, los granos cortan la mazorca, sin preparación
+Cowpeas (Blackeyes), semillas inmaduras, congeladas, cocidas, hervidas, drenadas, con sal
+Pizza Digiorno, cobertura de queso, corteza rellena de queso, congelada, horneada
+Pizza Digiorno, cobertura de queso, corteza crujiente delgada, congelada, horneada
+Pizza Digiorno, cobertura de pepperoni, corteza rellena de queso, congelada, horneada
+Pizza Digiorno, cobertura de pepperoni, corteza crujiente delgada, congelada, horneada
+Pizza Digiorno, cobertura suprema, corteza crujiente delgada, congelada, horneada
+Pez, bacalao, pacífico, crudo (puede haber sido congelado previamente)
+Novedades congeladas, tipo de helado, chocolate o caramelo cubierto, con nueces
+Hojas de calabaza, crudas
+Novedades congeladas, Klondike, Slim-A-Bear, sin azúcar agregada, barra sin palos
+Jimmy Dean, salchicha, huevo y queso Desayuno galleta, congelada, sin preparación
+Jugo de naranja, concentrado congelado, sin azúcar, diluido con 3 volumen de agua
+Pimientos, dulces, verdes, congelados, picados, hervidos, drenados, sin sal
+Pimientos, dulces, verdes, congelados, picados, cocidos, hervidos, drenados, con sal
+Corteza de pastel, plato profundo, congelado, horneado, hecho con harina enriquecida
+Corteza de pastel, plato profundo, congelado, sin horno, hecho con harina enriquecida
+Corteza de pastel, tipo estándar, congelado, listo para hornear, enriquecido, horneado
+Jugo de piña, concentrado congelado, sin azúcar, diluido con agua de 3 volumen
+Carne de cerdo, frescas, carnes de variedades y subproductos, orejas, congelados, cocidos, a fuego lento
+Godas de papa, congelados (incluye alimentos para el programa de distribución de alimentos del USDA)
+PATATAS, fritas francesas, poco bien, sal agregada en procesamiento, congelado, como se compró
+PATATAS, AMARILLOS ANCLAS, ASOTADA, AGREGADA EN PROCEDER, FROZEN, NO BAJO
+Calabaza, verano, corneco y cuello recto, congelado, cocido, hervido, drenado, con sal
+Fresas, congeladas, sin azúcar (incluye alimentos para el programa de distribución de alimentos del USDA)
+Batatas, fritas francesas, congeladas como empaquetadas, sal agregada en el procesamiento
+Turkey Roast, Bonless, Frozen, Sazeded, Light and Dark Meat, Raw
+Yogurt, congelado, sabores, no chocolate, leche sin grasa, con edulcorante de baja calorías
+Manzanas, congeladas, sin azúcar, calentadas (incluye alimentos para el programa de distribución de alimentos del USDA)
+Brócoli, congelado, lanzas, sin preparación (incluye alimentos para el programa de distribución de alimentos del USDA)
+Maíz, dulce, blanco, congelado, granos sobre mazorca, cocido, hervido, drenado, con sal
+Maíz, dulce, amarillo, congelado, granos sobre mazorca, cocido, hervido, drenado, con sal
+Jugo de toronja, concentrado blanco, congelado, sin azúcar, diluido con agua de 3 volumen
+Bolsillos calientes, bolsillos de croissant, brócoli y sándwich relleno de cheddar, congelado
+Frijoles de lima, semillas inmaduras, congeladas, bebé, cocidas, hervidas, drenadas, con sal
+Frijoles de lima, semillas inmaduras, congeladas, vados, cocidas, hervidas, drenadas, con sal
+Nueces, leche de coco, congelado (líquido expresado por carne rallada y agua)
+Peas, verde, congelado, sin preparación (incluye alimentos para el programa de distribución de alimentos del USDA)
+PATATAS, French Fried, todo tipo, sal agregada en procesamiento, congelado, sin preparación
+PATATAS, French Fried, todo tipo, sal no agregada en procesamiento, congelado, como se compró
+PATATAS, French Fried, Cotage, sal no agregada en el procesamiento, congelado, como se compró
+PATATAS, fritas francesas, cortajadas, sal agregada en procesamiento, congelado, calentado con horno
+PATATAS, French Fried, Steak Cut, Salt no agregado en procesamiento, congelado, sin preparación
+Papas, fritas francesas, papas fritas, sal agregada en procesamiento, congelado, como se compró
+Patatas, hash marrón, congelado, liso, preparado, sartén frito en aceite de canola
+Calabaza, verano, calabacín, incluye piel, congelada, cocida, hervida, drenada, con sal
+Batata, congelada, sin preparación (incluye alimentos para el programa de distribución de alimentos del USDA)
+Pavo, relleno, puré de papas con salsa, verduras variadas, congeladas, microondas
+Bebidas, bebida naranja, tipo de desayuno, con jugo y pulpa, concentrado congelado, preparado con agua
+Bebidas, bebida con sabor a naranja, tipo de desayuno, con pulpa, concentrado congelado, preparado con agua
+Cerezas, agrias, rojos, congelados, sin azúcar (incluye alimentos para el programa de distribución de alimentos del USDA)
+Maíz, dulce, blanco, congelado, los granos cortados con mazorca, hervida, drenada, con sal
+Maíz, dulce, amarillo, congelado, granos, mazorca cortada, hervida, drenada, con sal
+Huevo, entero, crudo, congelado, pasteurizado (incluye alimentos para el programa de distribución de alimentos del USDA)
+Novedades congeladas, tipo de hielo, sin azúcar, naranja, cereza y paletas de uva
+Cordero, Nueva Zelanda, importado, congelado, lomo, delgado y grasa separable, cocido, asado
+Cordero, Nueva Zelanda, importado, congelado, lomo, solo delgado separable, cocido, asado
+Jugo de naranja, concentrado congelado, sin azúcar, diluido con 3 volumen de agua, con calcio agregado
+PATATAS, fritas francesas, todo tipo, sal no agregada en procesamiento, congelado, calentado con horno
+Papas, fritas francesas, cortagonales, sal no agregada en procesamiento, congelado, calentado con horno
+PATATAS, fritas francesas, arrugadas o corte regular, sal agregada en procesamiento, congelado, como se compró
+PATATAS, AMARILLOS CLASHED, CONH MODRO, THREDDED, SAL SALIDAD AGRETADO EN PROCEDER, FROZEN, NO BAJO
+Almuerzo escolar, pizza, cobertura de queso, corteza espesa, grano integral, congelado, cocinado
+Almuerzo escolar, pizza, cobertura de queso, corteza delgada, grano integral, congelado, cocinado
+Almuerzo escolar, pizza, cobertura de pepperoni, corteza espesa, grano integral, congelado, cocinado
+Almuerzo escolar, pizza, cobertura de pepperoni, corteza delgada, grano integral, congelado, cocinado
+Almuerzo escolar, pizza, cobertura de salchichas, corteza espesa, grano integral, congelado, cocinado
+Almuerzo escolar, pizza, cobertura de salchichas, corteza delgada, grano integral, congelado, cocinado
+Espinacas, congeladas, picadas o de hoja, sin preparación (incluye alimentos para el programa de distribución de alimentos del USDA)
+Calabaza, verano, calabacín, incluye piel, congelado, cocido, hervido, drenado, sin sal
+Jugo de manzana, concentrado congelado, sin azúcar, diluido con agua de 3 volumen, con ácido ascórbico adicional
+Rábano, oriental, crudo
+Maíz, dulce, amarillo, congelado, los granos cortados con mazorca, hervida, drenada, sin sal
+Novedades congeladas, klondike, barra de dulce de azúcar delgada, 98% sin grasa, sin azúcar agregado
+Cordero, Nueva Zelanda, importado, congelado, compuesto de cortes minoristas recortados, grasa separable, cocida
+PATATAS, fritas francesas, arrugadas o cortadas regulares, sal agregada en procesamiento, congelado, calentado por el horno
+PATATAS, congeladas, fritas francesas, a par frié, cortapacéttes, preparadas, calentadas en horno, con sal
+Papas, congeladas, francesas fritas, par friadas, extruidas, preparadas, calentadas en horno, sin sal
+Tazón de arroz con pollo, entrante congelado, preparado (incluye variedades fritas, teriyaki y dulces)
+Jugo de manzana, concentrado congelado, sin azúcar, diluido con agua de 3 volumen sin ácido ascórbico agregado
+Frijoles, complementos, verdes, congelados, todos estilos, sin preparación (incluye alimentos para el programa de distribución de alimentos del USDA)
+Novedades congeladas, tipo de helado, helado de vainilla, luz, sin azúcar agregado, recubierto de chocolate
+Cordero, Nueva Zelanda, importado, congelado, compuesto de cortes minoristas recortados, magro y grasa separables, cocidas, cocidas
+Cordero, Nueva Zelanda, importado, congelado, compuesto de cortes minoristas recortados, magro y grasa separables, crudo
+Cordero, Nueva Zelanda, importado, congelado, compuesto de cortes minoristas recortados, solo esbelto separable, cocinado
+PATATAS, French Fried, todo tipo, sal agregada en procesamiento, congelado, preparado para el hogar, calentados al horno
+Cordero, Nueva Zelanda, importado, congelado, foreshank, delgado y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, Nueva Zelanda, importado, congelado, pierna, entero (vástago y solomillo), delgado y grasa separable, cocido, asado
+Cordero, Nueva Zelanda, importado, congelado, pierna, entero (vástago y solomillo), solo delgado separable, cocido, asado
+Cordero, Nueva Zelanda, importado, congelado, lomo, delgado y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, Nueva Zelanda, importado, congelado, costilla, magro y grasa separables, recortado a 1/8 "grasa, cruda
+Cordero, Nueva Zelanda, importado, congelado, hombro, entero (brazo y cuchilla), delgado y grasa separable, cocinado, estofado
+Cordero, Nueva Zelanda, importado, congelado, hombro, entero (brazo y cuchilla), solo delgado separable, cocido, estofado
+Almuerzo escolar, pizza, Tony's Smartpizza Whole Grain 4x6 Cheese Pizza 50/50 Cheese, congelado
+Almuerzo escolar, pizza, tonys pizza inteligente grano integral 4x6 pizza de pepperoni 50/50 queso, congelado
+Maíz, dulce, amarillo, congelado, granes cortados con mazorca, sin preparación (incluye alimentos para el programa de distribución de alimentos del USDA)
+Cordero, Nueva Zelanda, importado, congelado, foreshank, delgado y grasa separable, recortado a 1/8 "grasa, cocida, estofada
+Cordero, Nueva Zelanda, importado, congelado, lomo, delgado y grasa separable, recortado a 1/8 "grasa, cocida, asada
+Cordero, Nueva Zelanda, importado, congelado, costilla, magro separable y grasa, recortada a 1/8 "grasa, cocida, asada
+Almuerzo escolar, pizza, Big Daddy's LS 16 "51% Pizza de queso de borde enrollado de grano integral, congelado
+Almuerzo escolar, pizza, Big Daddy's LS 16 "51% Whole Grain Edge Turkey Pepperoni Pizza, Frozen
+Cordero, Nueva Zelanda, importado, congelado, compuesto de cortes minoristas recortados, magro y grasa separables, recortado a 1/8 "grasa, cocida
+Cordero, Nueva Zelanda, importado, congelado, pierna, entero (vástago y solomillo), delgado y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, Nueva Zelanda, importado, congelado, hombro, entero (brazo y cuchilla), delgado y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, Nueva Zelanda, importado, congelado, pierna, entero (vástago y solomillo), delgado y grasa separable, recortado a 1/8 "grasa, cocida, asada
+Cordero, Nueva Zelanda, importado, congelado, hombro, entero (brazo y cuchilla), delgado y grasa separable, recortado a 1/8 "grasa, cocida, estofada
+Hongos, shiitake, crudo
+Champiñones, blanco, crudo
+Mostaza Verdes, Raw
+Nueces, bellotas, crudo
+Nueces, brashnuts, crudo
+Bran de avena, crudo
+Cebollas, rojo, crudo
+Cebollas, dulces, crudas
+Cebollas, galeses, crudas
+Cebollas, blancas, crudas
+Cebollas, amarillo, cruda
+Peel naranja, crudo
+Naranjas, crudas, Florida
+Avestruz, fan, crudo
+Avestruz, tierra, cruda
+Avestruz, ostra, crudo
+Avestruz, redondo, crudo
+Avestruz, lomo, crudo
+Duraznos, amarillo, crudo
+Maní, español, crudo
+Peanuts, Valencia, Raw
+Peanuts, Virginia, Raw
+Peras, asiáticas, crudas
+Peras, crudo, Bartlett
+Guisantes, verde, crudo
+Pimienta, plátano, crudo
+Pimientos, húngaros, crudos
+Pimientos, jalapeño, crudo
+Pimientos, serrano, crudo
+Caquis, japoneses, crudos
+Caquis, nativos, crudos
+Plátanos, verdes, crudos
+Plátanos, amarillo, crudo
+Carne de cerdo, tierra, cruda
+Patatas, crudas, piel
+Tillas de espinas, crudas
+Repollo, crudo
+Manzanas de rosas, crudas
+Sapote, Mamey, Raw
+Algas, agar, crudo
+Algas, irlandeses, crudos
+Algas, algas, crudo
+Algas, lavandera, cruda
+Algas, espirulina, cruda
+Algas, wakame, crudo
+Flor de Sesbania, cruda
+Soja, verde, cruda
+Jugo de mandarina, crudo
+Hojas de taro, crudas
+Brotes de taro, crudo
+Taro, tahitiano, crudo
+Tomates, uva, crudo
+Tomates, verde, crudo
+Tomates, naranja, crudo
+Tomates, amarillo, crudo
+Turquía, tierra, cruda
+Verdes de nabo, crudo
+Tortuga, verde, cruda
+Ternera, tierra, cruda
+Vinespinach, (Basella), Raw
+Wasabi, raíz, crudo
+Convolvulus de agua, crudo
+Arroz salvaje, crudo
+Yambean (Jicama), Raw
+Yeño de la cría, crudo
+Yautia (Tannier), Raw
+Semillas de alfalfa, brotada, cruda
+Manzanas, fuji, con piel, crudo
+Manzanas, gala, con piel, cruda
+Manzanas, honeycrisp, con piel, crudo
+Manzanas, crudas, sin piel
+Alcachofas, (globo o francés), crudo
+Frijoles, fava, en vaina, crudo
+Frijoles, chasquidos, verdes, crudos
+Frijoles, chasquidos, amarillos, crudos
+Bockwurst, cerdo, ternera, crudo
+Broadbeans, semillas inmaduras, crudas
+Brócoli, racimos de flores, crudo
+Repollo, bok choy, crudo
+Carissa, (Natal-Plum), Raw
+Cerezas, agrias, rojos, crudos
+Pollo, capones, menudillos, crudos
+Pollo, molido, con aditivos, crudos
+Pollo, tostado, menudillos, crudos
+Pollo, guiso, jímeros, crudos
+Cloudberries, Raw (nativo de Alaska)
+Berkles, Raw (nativo de Alaska)
+Maíz, dulce, blanco, crudo
+Maíz, dulce, amarillo, crudo
+Cowpeas, puntas de hoja, crudo
+Crustáceos, cangrejo, azul, crudo
+Crustáceos, cangrejo, cálculo, crudo
+Crustáceos, cangrejo, reina, crudo
+Crustáceos, langosta, norte, crudo
+Grosellas, negro europeo, crudo
+Grosellas, rojo y blanco, crudo
+Pato, domesticado, hígado, crudo
+Huevo, blanco, crudo, fresco
+Huevo, entero, crudo, fresco
+Huevo, yema, crudo, fresco
+Emu, filete de ventilador, crudo
+Emu, filete plano, crudo
+Emu, grupa completa, cruda
+Emu, tambor interior, crudo
+Emu, fuera del tambor, crudo
+Pez, anchoa, europeo, crudo
+Pescado, lubina, rayas, crudas
+Pez, bacalao, atlántico, crudo
+Pez, croador, atlántico, crudo
+Pescado, tambor, agua dulce, cruda
+Pescado, Halibut, Groenlandia, Raw
+Pez, arenque, atlántico, crudo
+Pez, arenque, pacífico, crudo
+Pez, caballa, atlántico, crudo
+Pez, caballa, rey, crudo
+Pescado, caballa, español, crudo
+Pez, salmonete, rayado, crudo
+Pez, lucio, norte, crudo
+Pez, lucio, lucioperca, crudo
+Pescado, Pollock, Alaska, crudo
+Pescado, Pollock, Atlantic, crudo
+Pescado, Pompano, Florida, Raw
+Pez, puchero, océano, crudo
+Pez, áspero, naranja, crudo
+Pescado, salmón, chinook, crudo
+Pescado, salmón, amigo, crudo
+Pescado, salmón, rosa, crudo
+Pescado, salmón, sotectura, crudo
+Pez, sábalo, estadounidense, crudo
+Pez, oler, arco iris, crudo
+Pescado, tonto, blanco, crudo
+Pez, turbot, europeo, crudo
+Pez, wolffish, atlántico, crudo
+Carne de caza, antílope, crudo
+Carne de caza, oso, crudo
+Carne de caza, castor, crudo
+Carne de caza, caribú, crudo
+Carne de caza, ciervo, crudo
+Carne de caza, alce, crudo
+Carne de caza, cabra, crudo
+Carne de caza, caballo, crudo
+Carne de caza, alces, crudo
+Carne de caza, rata almizclera, cruda
+Carne de caza, ardilla, crudo
+Calabaza, tela de plato (toalla), crudo
+Jugo de pomelo, rosa, crudo
+Jugo de toronja, blanco, crudo
+Pomelo, crudo, blanco, California
+Uvas, verde, sin semillas, crudo
+Uvas, rojo, sin semillas, crudo
+Huckleberries, Raw (nativo de Alaska)
+Java-Plum, (Jambolan), Raw
+Ear de los judíos, (Pepeao), Raw
+KiwiFruit, Zespri Sungold, Raw
+Hierba de limón (citronela), crudo
+Limones, crudos, sin cáscara
+Lentejas, rosa o rojo, crudo
+Lechuga, cos o romanina, crudo
+Lechuga, hoja verde, cruda
+Lechuga, hoja, roja, cruda
+Lechuga, romana, verde, cruda
+Lupins, semillas maduras, crudo
+Mammy-Apple, (Mamey), Raw
+Molusks, mejillón, azul, crudo
+Moluscos, pulpo, común, crudo
+Molusks, Oyster, Pacific, Raw
+Moluscos, whelk, no especificado, crudo
+Mothbeans, semillas maduras, crudas
+Ñame de montaña, hawai, crudo
+Espinacas mostaza, (tendergreen), crudo
+Espinacas de Nueva Zelanda, crudo
+Nueces, almendras, enteras, crudas
+Nueces, anacardos, crudo
+Nueces, castañas, chinos, crudos
+Nueces, castañas, japoneses, crudos
+Nueces, carne de coco, crudo
+Nueces, nueces de ginkgo, crudo
+Nueces, avellanas o filberts, crudo
+Nueces, nueces de macadamia, crudo
+Nueces, nueces, mitades, crudo
+Nueces, piñones, crudos
+Nueces, pistachos, crudos
+Naranjas, Raw, California, Valencias
+Avestruz, pierna interior, cruda
+Avestruz, franja interior, cruda
+Avestruz, pierna exterior, cruda
+Avestruz, franja exterior, cruda
+Avestruz, punta recortada, cruda
+Avestruz, lomo superior, crudo
+Maní, todo tipo, crudo
+Guisantes, con poddeo comestible, crudo
+Pimientos, campana, verde, crudo
+Pimientos, campana, naranja, crudo
+Pimientos, campana, rojo, crudo
+Pimientos, campana, amarillo, crudo
+Pimientos, dulces, verdes, crudos
+Pimientos, dulces, rojos, crudos
+Pimientos, dulces, amarillos, crudos
+Faisán, crudo, carne y piel
+Palomas, semillas inmaduras, crudo
+Piña, cruda, todas las variedades
+Variedades de piña, crudas, tradicionales
+Pitanga, (Surinam-Cherry), Raw
+Pokeberry brotes, (poke), crudo
+Carne de cerdo, fresca, backfat, cruda
+Carne de cerdo, fresca, barriga, cruda
+Carne de cerdo, fresca, molida, cruda
+Cerdo, lomo, deshuesado, crudo
+Papas, carne y piel, crudo
+Codornices, carne y piel, crudo
+Quail, solo carne, crudo
+Semillas de rábano, brotada, cruda
+Rábano, carámbano blanco, crudo
+Salmonberries, Raw (nativo de Alaska)
+Salsify, (ostra de vegetales), crudo
+Salchicha, pavo, fresco, crudo
+Semillas, semillas de fruta de pan, crudo
+Semillas, semillas de loto, crudo
+Comida de soja, desanimada, cruda
+Soja, semillas maduras, crudas
+Squash, indio, crudo (Navajo)
+Squash, verano, vieira, crudo
+Squash, invierno, bellota, crudo
+Squash, Invierno, Butternut, Raw
+Squash, Invierno, Hubbard, Raw
+Squash, invierno, espagueti, crudo
+Squash, calabacín, bebé, crudo
+Succotash, (maíz y limas), crudo
+Manzanas de azúcar, (sweetsop), crudo
+Hojas de camote, crudas
+Tangerinas, (naranjas de mandarín), crudo
+Turquía, entero, base, crudo
+Castañas de agua, chino, (matai), crudo
+Hojas de frijoles aladas, crudas
+Tubérculo de frijoles alados, crudo
+Acerola, (Cereza de las Indias Occidentales), Raw
+Manzanas, abuela Smith, con piel, crudo
+Manzanas, crudas, doradas deliciosas, con piel
+Manzanas, rojo delicioso, con piel, crudo
+Aguacates, en bruto, todas las variedades comerciales
+Plátanos, maduras y ligeramente maduras, crudas
+Frijoles, adzuki, semillas maduras, crudas
+Frijoles, semillas negras, maduras, crudas
+Frijoles, franceses, semillas maduras, crudas
+Frijoles, marina, semillas maduras, crudas
+Frijoles, rosas, semillas maduras, crudas
+Frijoles, semillas blancas, maduras, crudos
+Frijoles, amarillas, semillas maduras, crudas
+Carne de res, alimentado con pasto, tierra, crudo
+Bisonte, tierra, alimentado con pasto, crudo
+Blackberries, Wild, Raw (nativa de Alaska)
+Arándanos, salvajes, crudos (nativos de Alaska)
+Repollo, chino (pak-cho), crudo
+Repollo, chino (pe-tsai), crudo
+Caribú, ojo, crudo (nativo de Alaska)
+Caribú, hígado, Raw (nativo de Alaska)
+Caribú, lengua, crudo (nativo de Alaska)
+Cerezas, dulce, rojo oscuro, crudo
+Pollo, pechuga, deshuesada, sin piel, cruda
+Pollo, pollos de engorde o freyers, jímeros, crudos
+Pollo, capones, carne y piel, crudo
+Pollo, molleja, todas las clases, crudas
+Pollo, corazón, todas las clases, crudas
+Pollo, hígado, todas las clases, crudas
+Pollo, tostado, solo carne, crudo
+Pollo, piel (baquetas y muslos), crudo
+Pollo, guiso, carne y piel, crudo
+Pollo, estofado, solo carne, crudo
+Pollo, muslo, deshuesado, sin piel, crudo
+ChokeCherries, crudo, picado (Shoshone Bannock)
+Caza (blackeyes), semillas inmaduras, crudo
+Cowpeas, Catjang, semillas maduras, crudo
+Caza, vainas jóvenes con semillas, crudo
+Crustáceos, Crab, Alaska King, Raw
+Crustáceos, camarones, granja criada, cruda
+APLICACIÓN DE CUNTARD, (Bullock's-Heart), Raw
+Pato, domesticado, carne y piel, crudo
+Pato, domesticado, solo carne, crudo
+Pato, salvaje, carne y piel, crudo
+Huevo, pato, entero, fresco, crudo
+Huevo, ganso, entero, fresco, crudo
+Huevo, codorniz, entero, fresco, crudo
+Huevo, pavo, entero, fresco, crudo
+Peces, bagre, canal, cultivo, crudo
+Peces, bagre, canal, salvaje, crudo
+Peces, bagre, granja criada, cruda
+Pez, anguila, especies mixtas, crudo
+Pez, mero, especies mixtas, crudo
+Pescado, Halibut, Atlántico y Pacífico, crudo
+Peces, perca oceánica, atlántico, crudo
+Pez, perca, especies mixtas, crudo
+Pez, huevas, especies mixtas, crudo
+Pescado, salmón, atlántico, cultivo, crudo
+Pez, salmón, atlántico, salvaje, crudo
+Pez, salmón, coho, cultivo, crudo
+Pez, salmón, coho, salvaje, crudo
+Peces, marina, especies mixtas, crudo
+Peces, tiburones, especies mixtas, crudo
+Pescado, pez shee, crudo (nativo de Alaska)
+Pez, pargo, especies mixtas, crudo
+Pez, esturión, especies mixtas, crudo
+Pez, pez sol, semillas de calabaza, crudo
+Peces, tilapia, granja criada, cruda
+Pez, trucha, especies mixtas, crudo
+Peces, truchas, arco iris, cultivo, crudo
+Pez, trucha, arco iris, salvaje, crudo
+Pescado, atún, fresco, azul, crudo
+Pescado, atún, fresco, saltador, crudo
+Pescado, atún, fresco, aleta amarilla, crudo
+Pez, pescado blanco, especies mixtas, crudo
+Pez, whiting, especies mixtas, crudo
+Peces, cola amarilla, especies mixtas, crudo
+Carne de caza, bisonte, tierra, cruda
+Carne de caza, jabalí, salvaje, crudo
+Carne de caza, búfalo, agua, crudo
+Carne de caza, ciervo, tierra, crudo
+Carne de caza, alce, tierra, cruda
+Carne de caza, conejo, salvaje, crudo
+Ganso, domesticado, carne y piel, crudo
+Ganso, domesticado, solo carne, crudo
+Calabaza, flores blancas (calabash), crudo
+Pomelo, crudo, rosa y rojo, Florida
+CHERRESSCHERRIES, (CAPE-GOOSEBRES o POHA), RAW
+Guinea Hen, carne y piel, crudo
+Guinea Hen, solo carne, crudo
+Frijoles jacintos, semillas maduras, crudas
+Beanh-beans, semillas inmaduras, crudo
+Lambsquarters, Raw (indios de las llanuras del norte)
+Frijoles de lima, semillas inmaduras, crudas
+Mashu Roots, Raw (nativo de Alaska)
+Moluscos, abulón, especies mixtas, crudo
+Moluscos, almejas, especies mixtas, crudo
+Moluscos, sepia, especies mixtas, crudo
+Moluscos, ostra, este, cultivo, crudo
+Moluscos, ostra, este, salvaje, crudo
+Moluscos, vieira, especies mixtas, crudo
+Moluscos, calamares, especies mixtas, crudo
+Moose, carne, crudo (nativo de Alaska)
+Frijoles mung, semillas maduras, crudas
+Frijoles mungo, semillas maduras, crudas
+Hongos, marrones, italianos o crimini, crudos
+Nueces, castañas, europeas, crudas, peladas
+Nueces, nueces, inglés, mitades, crudas
+Jugo de pasión, morado, crudo
+Jugo de pasión, amarillo, crudo
+Fruit de pasión, (Granadilla), púrpura, cruda
+Guisantes, semillas maduras, brotadas, crudas
+Pimientos, chile caliente, verde, crudo
+Pimientos, chile caliente, rojo, crudo
+Faisán, pecho, solo carne, crudo
+Faisán, pierna, solo carne, crudo
+Carne de cerdo, curada, carne de cerdo, cruda
+Carne de cerdo, fresca, grasa separable, cruda
+Cerdo, lomo, lomo, deshuesado, crudo
+Papas, oro, sin piel, crudo
+Papas, rojo, carne y piel, crudo
+Papas, rojo, sin piel, crudo
+Papas, rojas, sin piel, crudo
+Papas, blancos, carne y piel, crudo
+Quail, pechuga, carne solamente, cruda
+Salchicha, italiano, cerdo, suave, crudo
+Semillas, semillas de árbol de pan, crudo
+Semillas, semillas de calabaza (pepitas), crudo
+Semillas, semillas de girasol, núcleo, crudo
+Harina de soya, grasa completa, cruda
+Soja, semillas maduras, brotadas, crudas
+Squab, (paloma), carne y piel, crudo
+Squab, (paloma), solo carne, cruda
+Squash, Summer, todas las variedades, Raw
+Squash, verano, crookneck y recta, crudo
+Squash, invierno, todas las variedades, crudas
+Turquía, todas las clases, corazón, crudo
+Turquía, todas las clases, hígado, crudo
+Turquía, molleja, todas las clases, crudo
+Abiyuch, crudo
+Albaricoques, crudo
+Punta de flecha, cruda
+Arrowroot, crudo
+Rúcula, cruda
+Espárragos, crudo
+Plátanos, crudo
+Remolacha, cruda
+Moras, crudas
+Arándanos, crudos
+Borraje, crudo
+Fruta de pan, cruda
+Brócoli, crudo
+Zanahorias,
+Cassava, cruda
+Coliflor, crudo
+Celeriac, crudo
+Apio, crudo
+Celtuce, crudo
+Cherimoya, crudo
+Cebollino, crudo
+Clementinas, crudo
+Coloque, crudo
+Cornsalad, crudo
+Crabapples, crudo
+Muelle, crudo
+Berenjena, cruda
+Losaxtos de saúco, crudos
+Endive, crudo
+Epazote, Raw
+Eppaw, crudo
+Feijoa, Raw
+Figs, crudo
+Ajo, crudo
+Grosellas, crudas
+Jackfruit, crudo
+Jujube, crudo
+Col rizada, cruda
+Kohlrabi, crudo
+Kumquats, crudo
+Lentejas, crudas
+Limas, crudas
+Litchis, crudo
+Longans, crudo
+Loquats, crudo
+Mangos, crudo
+Mijo, crudo
+Mulberries, crudo
+Nectarinas, crudas
+Nopales, crudo
+Oheloberries, crudo
+Okra, crudo
+Cebollas, Raw
+Papayas, crudo
+Parsnips, crudo
+Maní, crudo
+Peras, crudas
+Piña, cruda
+Ciruelas, crudas
+Granadas, crudas
+Pummelo, crudo
+Calabaza, cruda
+Verdol, crudo
+Quinces, crudo
+Radicchio, crudo
+Rábanos, crudos
+Frambuesas, crudas
+Ruibarbo, crudo
+Roselle, Raw
+Rowal, crudo
+Rutabagas, crudo
+Sapodilla, crudo
+Chalotes, crudo
+Soursop, crudo
+Espinacas, crudas
+Fresas, crudas
+Tamarinds, crudo
+Taro, crudo
+Tomatillos, crudo
+Nabos, crudo
+Berro, crudo
+Sandía, cruda
+Ñame, crudo
+Hojas de cilantro (cilantro), crudo
+Jugo de acerola, crudo
+Agave, crudo (suroeste)
+Amaranth hojas, crudas
+Avocados, Raw, California
+Brotes de bambú, crudo
+Plátanos, demasiado madrugadores, crudos
+Cebada, perla, cruda
+Brócoli raab, crudo
+Brócoli, chino, crudo
+Brócoli, hojas, crudo
+Brócoli, tallos, crudo
+Coles de Bruselas, crudo
+Raíz de burda, crudo
+Butterbur, (fuki), crudo
+Repollo, verde, crudo
+Repollo, rojo, crudo
+Repollo, Saboya, cruda
+Carambola, (Starfruit), Raw
+Zanahorias, bebé, crudo
+Zanahorias, maduras, crudas
+Coliflor, verde, crudo
+Acelgas, suizo, crudo
+Chayote, fruta, crudo
+Cerezas, dulces, crudas
+Pollo, molido, crudo
+Greens de achicoria, crudo
+Raíces de achicoria, crudo
+Achicoria, witloof, crudo
+Hojas de crisantemo, crudas
+Crisantemo, guirnaldas, crudo
+Cress, jardín, crudo
+Crustáceos, camarones, crudos
+Pepino, pelado, crudo
+Pepino, con cáscara, crudo
+Dandelion Verdes, Raw
+Hojas de baqueta, crudas
+Cápsulas de baqueta, crudo
+Emu, tierra, cruda
+Emu, ostra, crudo
+Hinojo, bombilla, crudo
+Helechos de fiddlehead, crudo
+Fireweed, hojas, crudo
+Pez, pez azul, crudo
+Pez, burbot, crudo
+Pescado, pez mantequilla, crudo
+Pez, carpa, crudo
+Pescado, Cisco, crudo
+Pez, cúspide, crudo
+Pez, eglefino, crudo
+Pez, ling, crudo
+Pez, lingcod, crudo
+Pez, mahimahi, crudo
+Pescado, pez leche, crudo
+Pez, monjes, crudo
+Pescado, Pollock, crudo
+Pez, pez sable, crudo
+Pez, scup, crudo
+Pez, cabeza de oveja, crudo
+Pez, lugar, crudo
+Pez, pez espada, crudo
+Pez, tilapia, crudo
+Pez, pez mosaico, crudo
+Piernas de rana, crudo
+Raíz de jengibre, cruda
+Ganso, hígado, crudo
+Hojas de uva, crudas
+Uvas, muscadina, crudo
+Guayapas, común, crudo
+Guayas, fresa, cruda
+Corazones de palma, crudo
+Jerusalén-Artichokes, Raw
+Yute, puta, crudo
+KiwiFruit, verde, crudo
+Cordero, tierra, cruda
+Jugo de limón, crudo
+Pelera de limón, crudo
+Lentejas, brotadas, crudas
+Lechuga, iceberg, cruda
+Jugo de lima, crudo
+Raíz de loto, crudo
+Melones, cantaloupo, crudo
+Melones, Casaba, Raw
+Melones, Honeydew, Raw
+Moluscos, caracol, crudo
+Champiñones, canterelle, crudo
+Champiñones, enoki, crudo
+Champiñones, maitake, crudo
+Champiñones, morel, crudo
+Champiñones, ostra, crudo
+Hongos, portabella, crudo
+Turquía, molido, sin grasa, crudo
+Pavo, entero, carne ligera, cruda
+Pavo, entero, carne y piel, crudo
+Pavo, entero, solo carne, crudo
+Ternera, australiana, grasa separable, cruda
+Ternera, solo grasa externa, cruda
+Ternera, solo grasa de costura, crudo
+Morsa, hígado, crudo (nativo de Alaska)
+Morsa, carne, cruda (nativa de Alaska)
+WaxGourd, (Melón de preservación chino), Raw
+Frijoles alados, semillas inmaduras, crudas
+Frijoles alados, semillas maduras, crudas
+Frijoles de yardas, semillas maduras, crudas
+Manzanas, crudas, sin piel, cocidas, hervidas
+Manzanas, crudas, sin piel, cocida, microondas
+Balsam-Pear (calabaza amarga), vainas, crudo
+Frijoles, tortuga negra, semillas maduras, crudo
+Frijoles, arándano (romano), semillas maduras, crudo
+Frijoles, riñón, semillas maduras, brotadas, crudas
+Frijoles, riñón, rojo, semillas maduras, crudo
+Frijoles, marina, semillas maduras, brotadas, crudas
+Frijoles, pinto, semillas maduras, brotadas, crudas
+Frijoles, blanco pequeño, semillas maduras, crudas
+Oso, polar, carne, crudo (nativo de Alaska)
+Carne de res, chuck, asado, deshuesado, elección, crudo
+Carne de res, curadas, tiras de desayuno, crudas o sin calefacción
+Carne de res, curada, carne en conserva, pechuga, cruda
+Carne de res, flanco, bistec, deshuesada, elección, cruda
+Carne de res, Nueva Zelanda, importada, interior, cruda
+Carne de res, Nueva Zelanda, importada, pan sweet, crudo
+Carne de res, cortes minoristas, grasa separable, cruda
+Carne de res, chuletón, bistec, deshuesado, elección, crudo
+Carne de res, carnes de variedades y subproductos, cerebro, crudo
+Carne de res, carnes de variedades y subproductos, corazón, crudo
+Carne de res, carnes de variedades y subproductos, riñones, crudo
+Carne de res, carnes de variedades y subproductos, hígado, crudo
+Carne de res, carnes de variedades y subproductos, pulmones, crudos
+Carne de res, carnes de variedades y subproductos, páncreas, crudo
+Carne de res, carnes de variedades y subproductos, bazo, crudo
+Carne de res, carnes de variedades y subproductos, suet, crudo
+Carne de res, carnes de variedades y subproductos, timo, crudo
+Carne de res, carnes de variedades y subproductos, lengua, crudo
+Carne de res, carnes de variedades y subproductos, callos, crudos
+Broadbeans (frijoles fava), semillas maduras, crudo
+Caribú, médula ósea, cruda (nativa de Alaska)
+Pollo, pollos de engorde o fryers, carne y piel, crudo
+Pollo, pollos de engorde o fryers, solo carne, crudo
+Pollo, pollos de engorde o fryers, grasa separable, cruda
+Pollo, pollos de engorde o fryers, solo piel, crudo
+ChokeCherries, crudos, picados (indios de las llanuras del norte)
+Cranberries, Wild, Bush, Raw (nativo de Alaska)
+Crustáceos, cangrejos de río, especies mixtas, cultivadas, crudas
+Crustáceos, cangrejos de río, especies mixtas, salvajes, crudos
+Crustáceos, langosta espinosa, especies mixtas, crudo
+Deer (Venison), Sitka, Raw (nativo de Alaska)
+Pato, salvaje, pecho, solo carne, crudo
+Fireweed, hojas jóvenes, crudo (nativo de Alaska)
+Pez, bacalao, atlántico, pescado salvaje, crudo
+Pez, pez plano (platija y especie exclusiva), crudo
+Pescado, halibut, crudo, con piel (nativa de Alaska)
+Pescado, lingcod, carne, crudo (nativo de Alaska)
+Pez, pez roca, pacífico, especies mixtas, crudo
+Pescado, salmón, atlántico, granja criada, cruda
+Pescado, salmón, chum, crudo (nativo de Alaska)
+Pescado, salmón, foteye, pescado salvaje, crudo
+Pez, lubina, especies mixtas, crudo
+Carne de caza, beefalo, compuesto de cortes, crudo
+Uvas, tipo americano (piel deslizante), crudo
+Cordero, Nueva Zelanda, importado, cerebro, crudo
+Cordero, Nueva Zelanda, importado, corazón, crudo
+Cordero, Nueva Zelanda, importado, riñón, crudo
+Cordero, Nueva Zelanda, importado, hígado, crudo
+Cordero, Nueva Zelanda, importado, arrojante, crudo
+Cordero, Nueva Zelanda, importados, testículos, bruto
+Cordero, carnes de variedad y subproductos, cerebro, crudo
+Cordero, carnes de variedad y subproductos, corazón, crudo
+Cordero, carnes de variedad y subproductos, riñones, crudo
+Cordero, carnes de variedad y subproductos, hígado, crudo
+Cordero, carnes de variedad y subproductos, pulmones, crudo
+Cordero, carnes de variedad y subproductos, páncreas, crudo
+Cordero, carnes de variedad y subproductos, bazo, crudo
+Cordero, carnes de variedad y subproductos, lengua, crudo
+Puerros, (bulbo y porción de hoja inferior), crudo
+Lechuga, iceberg (incluye tipos de crujientes), crudo
+Frijoles de lima, semillas grandes y maduras, crudos
+Frijoles mung, semillas maduras, brotadas, crudas
+Hongo, blanco, expuesto a la luz ultravioleta, cruda
+Monstrucciones, Portabella, expuesta a la luz ultravioleta, cruda
+Búho, cuernos, carne, crudo (nativo de Alaska)
+Guisantes, verdes, divididos, semillas maduras, crudas
+Cerdo, curado, tiras de desayuno, crudas o sin calefacción
+Nabos de la pradera, crudo (indios de las llanuras del norte)
+PERRAS DE PRINGAS, RACO (Indios de las llanuras del norte)
+Urogallo con rubor, carne de pechuga, sin piel, cruda
+Peras, crudo, rojo anjou
+Salchicha, cerdo, chorizo, enlace o tierra, crudo
+Salchicha, pavo, enlaces de desayuno, suave, crudo
+Calabaza, verano, amarillo, incluye piel, crudo
+Squash, verano, calabacín, incluye piel, crudo
+Tofu, crudo, firme, preparado con sulfato de calcio
+Tofu, crudo, regular, preparado con sulfato de calcio
+Pavo, carne oscura, carne y piel, crudo
+Pavo, entero, espalda, solo carne, crudo
+Pavo, entero, pechuga, solo carne, cruda
+Pavo, entero, cuello, solo carne, crudo
+Turquía, entero, piel (claro y oscuro), crudo
+Pavo, entero, ala, solo carne, cruda
+Ternera, lomo, magro y grasa separable, crudo
+Ternera, lomo, solo delgado separable, crudo
+Ternera, costilla, magro y grasa separables, crudo
+Ternera, costilla, solo lean separable, crudo
+Ternera, vástago, magro y grasa separables, crudo
+Ternera, vástago, solo delgado separable, crudo
+Ternera, solomillo, magro y grasa separable, crudo
+Ternera, solomillo, solo delgado separable, crudo
+Ternera, carnes de variedad y subproductos, cerebro, crudo
+Ternera, carnes de variedad y subproductos, corazón, crudo
+Ternera, carnes de variedad y subproductos, riñones, crudo
+Ternera, carnes de variedad y subproductos, hígado, crudo
+Ternera, carnes de variedad y subproductos, pulmones, crudo
+Ternera, carnes de variedad y subproductos, páncreas, crudo
+Ternera, carnes de variedad y subproductos, bazo, crudo
+Ternera, carnes de variedad y subproductos, timo, crudo
+Ternera, carnes de variedad y subproductos, lengua, crudo
+Ballena, Beluga, Flipper, Raw (nativa de Alaska)
+Ballena, beluga, hígado, crudo (nativo de Alaska)
+Ballena, beluga, carne, cruda (nativa de Alaska)
+Balsam-Pear (calabaza amarga), puntas de hoja, crudo
+Frijoles, riñones, todo tipo, semillas maduras, crudo
+Frijoles, riñón, rojo de California, semillas maduras, crudo
+Frijoles, riñón, rojo real, semillas maduras, crudo
+Carne de res, cadáveres, magro y grasa separables, elección, crudo
+Carne de res, cadáveres, magro y grasa separables, seleccionados, crudos
+Carne de res, Nueva Zelanda, importada, grasa intermuscular, cruda
+Carne de res, Nueva Zelanda, importado, fabricación de carne de res, cruda
+Carne de res, Nueva Zelanda, importadas, preparadas, crudas
+Carne de res, Nueva Zelanda, importada, grasa subcutánea, cruda
+Carne de res, redonda, superior redonda, deshuesada, elección, cruda
+Canada Goose, solo carne de pecho, sin piel, cruda
+Caribou, carne trasera, carne cruda (nativa de Alaska)
+Pollo, pollos de engorde o fryers, espalda, carne y piel, crudo
+Pollo, pollos de engorde o fryers, espalda, solo carne, crudo
+Pollo, pollos de engorde o freidoras, pechuga, carne y piel, crudo
+Pollo, pollos de engorde o fryers, batería, carne y piel, crudo
+Pollo, pollos de engorde o fryers, pierna, carne y piel, crudo
+Pollo, pollos de engorde o fryers, pierna, solo carne, crudo
+Pollo, pollos de engorde o fryers, cuello, carne y piel, crudo
+Pollo, pollos de engorde o fryers, cuello, solo carne, crudo
+Pollo, pollos de engorde o fryers, muslo, carne y piel, crudo
+Pollo, pollos de engorde o freyers, ala, carne y piel, crudo
+Pollo, pollos de engorde o fryers, ala, solo carne, crudo
+Pollo, capones, carne, piel y jímeros y cuello, crudo
+Pollo, gallinas de juego de Cornualles, carne y piel, crudo
+Pollo, gallinas de juego de Cornualles, solo carne, cruda
+Pollo, tostado, carne oscura, carne solamente, cruda
+Pollo, tostado, carne ligera, carne solamente, cruda
+Pollo, tostado, carne, piel y jímagos y cuello, crudo
+Pollo, piel (baquetas y muslos), con solución adicional, crudo
+Pollo, guiso, carne oscura, carne solamente, cruda
+Pollo, estofado, carne ligera, carne solamente, cruda
+Pollo, guiso, carne y piel, y jímeros y cuello, crudo
+Arándano, arbusto bajo o lingenberry, crudo (nativo de Alaska)
+Alces, rango libre, tierra, crudo (shoshone bannock)
+Pez, lubina, agua dulce, especies mixtas, crudo
+Pez, caballa, pacífico y gato, especies mixtas, crudo
+Pescado, salmón, coho (plata), crudo (nativo de Alaska)
+Pescado, salmón, rey (Chinook), crudo (nativo de Alaska)
+Pescado, Salmón, SODWEY (rojo), crudo (nativo de Alaska)
+Pescado, trucha, arroyo, crudo, estado de Nueva York
+Peces, peces blancos, especies mixtas, crudas (nativas de Alaska)
+Carne de caza, bisonte, solo esbelta separable, cruda
+Carne de caza, conejo, domesticado, compuesto de cortes, crudo
+Pomelo, crudo, rosa y rojo y blanco, todas las áreas
+Cordero, australiano, importado, fresco, grasa externa, cruda
+Cordero, australiano, importado, fresco, grasa de costura, cruda
+Cordero, australiano, importado, fresco, grasa separable, cruda
+Cordero, Nueva Zelanda, importado, cordero molido, crudo
+Cordero, Nueva Zelanda, importado, grasa intermuscular, cruda
+Cordero, Nueva Zelanda, importado, grasa subcutánea, cruda
+Cordero, carnes de variedad y subproductos, separados mecánicamente, crudos
+Letra, Butterhead (incluye tipos de Boston y Bibb), crudo
+Cebollas, primavera o cebolletas (incluye tops y bulbo), crudo
+Guisantes de paloma (gramo rojo), semillas maduras, crudo
+Carne de cerdo, fresca, backibres, magro y grasa separables, crudo
+Carne de cerdo, fresca, cadáver, delgada y grasa separables, crudas
+Carne de cerdo, fresca, scareribs, magro y grasa separables, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, cerebro, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, chitterlings, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, pies, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, corazón, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, papada, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, riñones, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, hígado, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, pulmones, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, páncreas, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, bazo, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, estómago, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, cola, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, lengua, crudo
+Carne de cerdo, tierra, 84% delgada / 16% grasa, crudo
+Carne de cerdo, tierra, 96% delgado / 4% grasa, crudo
+Aves de corral, de depósito mecánicamente, de gallinas maduras, crudas
+Sello, barbudo (Oogruk), carne, crudo (nativo de Alaska)
+Squab, (paloma), carne ligera sin piel, crudo
+Squash, verano, verde, calabacín, incluye piel, crudo
+Batatas, carne naranja, sin piel, crudo
+Tomates, rojo, maduro, crudo, promedio durante todo el año
+Turquía, todas las clases, pechuga, carne y piel, crudo
+Pavo, todas las clases, pierna, carne y piel, crudo
+Pavo, todas las clases, ala, carne y piel, crudo
+Turquía, tierra, 85% delgado, 15% grasa, crudo
+Turquía, tierra, 93% delgada, 7% de grasa, crudo
+Turquía, tierra, 93% delgado/ 7% grasa, crudo
+Turquía, debozada mecánicamente, de los marcos de Turquía, crudo
+Pavo, piezas minoristas, pechuga, carne y piel, crudo
+Pavo, piezas minoristas, pechuga, carne solamente, cruda
+Pavo, piezas minoristas, baqueta, carne y piel, crudo
+Pavo, piezas minoristas, baqueta, solo carne, crudo
+Pavo, piezas minoristas, muslo, carne y piel, crudo
+Pavo, piezas minoristas, muslo, solo carne, crudo
+Pavo, piezas minoristas, ala, carne y piel, crudo
+Pavo, piezas minoristas, ala, solo carne, crudo
+Pavo, entero, carne oscura, solo carne, cruda
+Pavo, entero, carne ligera, carne y piel, crudo
+Pavo, entero, carne y piel, con solución adicional, crudo
+Pavo, entero, solo carne, con solución adicional, crudo
+Ternera, hombro, brazo, magro y grasa separable, crudo
+Ternera, hombro, brazo, solo delgado separable, crudo
+Morsa, carne y grasa subcutánea cruda (nativa de Alaska)
+Carne de res, australiana, importada, alimentada con pasto, grasa externa, cruda
+Carne de res, australiana, importada, alimentada con pasto, grasa de costura, cruda
+Carne de res, chuck para estofado, magro y grasa separables, elección, crudo
+Carne de res, chuck para estofado, magro y grasa separables, seleccionados, crudos
+Carne de res, alimentado con pasto, filetes de tiras, solo, de maquillaje, crudo
+Carne de res, tierra, 70% de carne magra / 30% grasa, cruda
+Carne de res, tierra, 75% de carne magra / 25% grasa, cruda
+Carne de res, tierra, 80% de carne magra / 20% grasa, cruda
+Carne de res, tierra, 90% de carne magra / 10% grasa, cruda
+Carne de res, tierra, 93% de carne magra / 7% grasa, cruda
+Carne de res, tierra, 95% de carne magra / 5% grasa, cruda
+Carne de res, tierra, 97% de carne magra / 3% de grasa, cruda
+Carne de res, costillas, costas, magro y grasa separables, elección, crudo
+Carne de res, costillas, costas, solo esbelle separable, elección, crudo
+Carne de res, carnes de variedades y subproductos, carne de res separada mecánicamente, crudo
+Repollo, común (tipos daneses, domésticos y puntiagudos), almacenados, crudos
+Pollo, pollos de engorde o freyers, carne oscura, carne y piel, crudo
+Pollo, pollos de engorde o fryers, carne oscura, carne solamente, cruda
+Pollo, pollos de engorde o freyers, carne ligera, carne y piel, crudo
+Pollo, pollos de engorde o fryers, carne ligera, carne solamente, crudo
+Pollo, pollos de engorde o fryers, carne y piel y jibros y cuello, crudo
+Garbanzos (garbanzos, gramo de Bengala), semillas maduras, crudo
+Cowpeas, Common (Blackeyes, Crowder, Southern), semillas maduras, crudo
+Uvas, rojo o verde (tipo europeo, como Thompson sin semillas), crudo
+Cordero, australiano, tierra, 85% delgado / 15% grasa, crudo
+Cordero, Nueva Zelanda, importado, lengua - Corte suizo, crudo
+Frijoles de lima, semillas delgadas (bebé), semillas maduras, crudo
+Monstruos, marrones, italianos o crimini, expuestos a la luz ultravioleta, cruda
+Lomo de cerdo, fresco, backibres, hueso, crudo, delgado solo
+Carne de cerdo, fresca, compuesta de grasa separable, con solución adicional, bruto
+Carne de cerdo, fresca, lomo, lomo, magro y grasa separables, crudo
+Carne de cerdo, fresca, lomo, lomo, solo delgado separable, crudo
+Carne de cerdo, fresca, lomo, entera, degada y grasa separable, cruda
+Carne de cerdo, fresca, lomo, entera, de inclinación separable solamente, crudo
+Carne de cerdo, fresca, hombro, entera, degada y grasa separable, cruda
+Carne de cerdo, fresca, hombro, entero, solo delgado, solo crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, grasa de hoja, crudo
+Carne de cerdo, frescas, carnes de variedades y subproductos, separados mecánicamente, crudos
+Carne de cerdo, pecho de hombro, deshuesado, degal y grasa separable, crudo
+Aves de corral, de depósito mecánicamente, de espaldas y cuellos con piel, crudo
+Pavo, baqueta, de pájaro entero, solo carne, crudo
+Pavo, muslo, de pájaro entero, solo carne, crudo
+Ternera, pecho, entero, deshuesado, degal y grasa separable, crudo
+Ternera, compuesto de cortes minoristas recortados, grasa separable, cruda
+Ternera, pierna (superior redonda), magro y grasa separable, crudo
+Ternera, pierna (superior redonda), solo delgado separable, crudo
+Ternera, vástago (delantera y trasera), delgada y grasa separables, crudo
+Ternera, vástago (delantero y trasero), solo delgado separable, crudo
+Ternera, hombro, cuchilla de cuchilla, magro y grasa separables, crudo
+Ternera, hombro, cuchilla de cuchilla, solo delgado separable, crudo
+Carne de res, pechuga, entera, solo delgada separable, todos los grados, crudos
+Carne de res, chuck para estofado, magro y grasa separables, todos los grados, crudos
+Carne de res, Nueva Zelanda, importada, flanco, magro y grasa separables, crudas
+Pomelo, crudo, blanco, todas las áreas
+Carne de res, Nueva Zelanda, importada, flanco, solo delgada separable, cruda
+Carne de res, Nueva Zelanda, importada, plana, degada y grasa separable, cruda
+Carne de res, Nueva Zelanda, importada, plana, solo delgada separable, cruda
+Carne de res, Nueva Zelanda, importada, Striploin, Lean y grasa separable, crudo
+Carne de res, Nueva Zelanda, importada, Striploin, solo delgada separable, cruda
+Carne de res, Nueva Zelanda, importada, lomo, magro separable y grasa, crudo
+Carne de res, Nueva Zelanda, importado, lomo, solo delgado separable, crudo
+Carne de res, Nueva Zelanda, importadas, carnes de variedades y subproductos, corazón, crudo
+Carne de res, Nueva Zelanda, importadas, carnes de variedades y subproductos, riñón, crudo
+Carne de res, Nueva Zelanda, importadas, carnes de variedades y subproductos, hígado, crudo
+Carne de res, Nueva Zelanda, importadas, carnes de variedades y subproductos, lengua, crudo
+Carne de res, filetes de sándwich, desados, picados, formados y en rodajas finas, crudas
+Buffalo, rango libre, filete redondo superior, crudo (Shoshone Bannock)
+Repollo, común (tipos daneses, domésticos y puntiagudos), recién cosecha, cruda
+Pollo, asa o freyers, pechuga, sin piel, deshuesada, solo carne, cruda
+Pollo, pollos de engorde o fryers, carne oscura, buque de batería, carne solamente, crudo
+Pollo, pollos de engorde o fryers, carne oscura, muslo, solo carne, crudo
+Pollo, carne oscura, baqueta, carne y piel, con solución adicional, crudo
+Pollo, carne oscura, baqueta, solo carne, con solución adicional, crudo
+Pollo, carne oscura, muslo, carne y piel, con solución adicional, crudo
+Pollo, carne oscura, muslo, solo carne, con solución adicional, crudo
+Alce, rango libre, asado, ojo de redondo, crudo (shoshone bannock)
+Fish, Pollock, Alaska, crudo (puede contener aditivos para retener la humedad)
+Cordero, Nueva Zelanda, importado, pecho, solo delgado separable, crudo
+Cordero, Nueva Zelanda, importado, lomo, magro separable y grasa, crudo
+Cordero, Nueva Zelanda, importado, lomo, solo esbelto separable, crudo
+Nueces, crema de coco, crudo (líquido expresado por carne rallada)
+Jugo de naranja, crudo (incluye alimentos para el programa de distribución de alimentos del USDA)
+Naranjas, crudos, navels (incluye alimentos para el programa de distribución de alimentos del USDA)
+Pears, Raw, Bartlett (incluye alimentos para el programa de distribución de alimentos del USDA)
+Peras, crudas, bosc (incluye alimentos para el programa de distribución de alimentos del USDA)
+Carne de cerdo, fresca, mejorada, lomo, lomo, solo esbelta separable, crudo
+Carne de cerdo, fresca, pierna (jamón), entera, delgada y grasa separable, cruda
+Naranjas, crudas, todas las variedades comerciales
+Carne de cerdo, fresca, pierna (jamón), entera, separable solo, solo crudo
+Cerdo, fresco, hombro, picnic de brazo, magro y grasa separables, crudo
+Carne de cerdo, fresca, hombro, picnic de brazo, solo delgado separable, crudo
+Carne de cerdo, bistec de tapa de pierna, locos y grasas separables, crudas,
+Carne de cerdo, hombro pequeño tierno, deshuesado, delgado y grasa separable, crudo
+Aves de corral, debozadas mecánicamente, desde espaldas y cuellos sin piel, crudo
+Sello, barbudo (Oogruk), carne, cuadrante bajo, crudo (nativo de Alaska)
+Semillas, mantequilla de sésamo, tahini, de núcleos crudos y de piedra
+Pavo, piezas minoristas, pechuga, carne y piel, con solución adicional, crudo
+Pavo, piezas minoristas, pechuga, solo carne, con solución adicional, crudo
+Turquía, piel de todo (claro y oscuro), con solución adicional, crudo
+Turquía, piel, de piezas minoristas, de carne oscura, crudo
+Ternera, australiana, costilla, asado de costilla, magro y grasa separables, crudo
+Ternera, australiana, costilla, asado de costilla, solo lean separable, crudo
+Ternera, australiana, vástago, avance, hueso, inclinación y grasa separable, cruda
+Ternera, australiana, vástago, avance, hueso, solo delgado separable, crudo
+Ternera, australiana, vástago, trasera, hueso, inclinación y grasa separable, cruda
+Ternera, australiana, vástago, trasera, hueso, solo delgada separable, cruda
+Ternera, compuesto de cortes minoristas recortados, magro y grasa separables, crudo
+Ternera, compuesto de cortes minoristas recortados, solo esbelle separable, crudo
+Ternera, en cubos de estofado (pierna y hombro), solo delgado separable, crudo
+Ternera, pierna, ronda superior, tapa apagada, chuleta, deshuesada, cruda
+Ternera, hombro, entero (brazo y cuchilla), magro y grasa separables, crudo
+Ternera, hombro, entero (brazo y cuchilla), solo delgado separable, crudo
+Manzanas, Raw, Fuji, con piel (incluye alimentos para el programa de distribución de alimentos del USDA)
+Manzanas, crudas, gala, con piel (incluye alimentos para el programa de distribución de alimentos del USDA)
+Carne de res, Nueva Zelanda, importada, cuchilla bolar, magro y grasa separable, crudo
+Carne de res, Nueva Zelanda, importada, cuchilla bolar, solo esbelta separable, crudo
+Carne de res, Nueva Zelanda, importada, rollo de cubo, magro y grasa separable, crudo
+Carne de res, Nueva Zelanda, importado, rollo de cubo, solo esbelta separable, crudo
+Carne de res, Nueva Zelanda, importada, ojo redondo, magro y grasa separable, crudo
+Carne de res, Nueva Zelanda, importada, ojo redondo, solo delgado separable, crudo
+Carne de res, Nueva Zelanda, importada, espinilla trasera, magro y grasa separables, crudo
+Carne de res, Nueva Zelanda, importada, espinilla trasera, solo delgada separable, cruda
+Carne de res, Nueva Zelanda, importada, cuchilla de ostras, magro y grasa separable, crudo
+Carne de res, Nueva Zelanda, importada, cuchilla de ostras, solo delgado separable, crudo
+Carne de res, Nueva Zelanda, importado, centro de grupos, magro y grasa separable, crudo
+Carne de res, Nueva Zelanda, importado, centro de grupos, solo esbelto separable, crudo
+Carne de res, Nueva Zelanda, importadas, carnes de variedades y subproductos, tripas crudas, crudas
+Crustáceos, camarones, especies mixtas, crudas (puede contener aditivos para retener la humedad)
+Carne de caza, bisonte, chuck, terreno de hombro, solo delgado separable, crudo
+Cordero, Nueva Zelanda, importado, chump, deshuesado solo, de inclinación separable, cruda
+Cordero, Nueva Zelanda, importado, colgajo, deshuesado, degal y grasa separable, crudo
+Cordero, Nueva Zelanda, importado, colgajo, deshuesado solo, separable, solo, crudo
+Cordero, Nueva Zelanda, importado, vástago de frente, delgado y grasa separable, crudo
+Cordero, Nueva Zelanda, importado, vástago de frente, solo esbelta, cruda
+Cordero, Nueva Zelanda, importado, espinoso, delgado y grasa separable, crudo
+Cordero, Nueva Zelanda, importados, testiganes, solo delgado, solo, crudo
+Cordero, Nueva Zelanda, importado, lomo de lomo, magro separable y grasa, crudo
+Cordero, Nueva Zelanda, importado, lomo de lomo, solo esbelto separable, crudo
+Cordero, Nueva Zelanda, importado, lomo de lomo, magro y grasa separable, crudo
+Cordero, Nueva Zelanda, importado, lomo de lomo, solo esbelta separable, cruda
+Cordero, Nueva Zelanda, importados, lomo, deshuesado, de lente y grasa separable, crudo
+Cordero, Nueva Zelanda, importado, lomo, deshuesado solo, separable solo, crudo
+Cordero, Nueva Zelanda, importado, chuletas de cuello, magro separable y grasa, crudo
+Cordero, Nueva Zelanda, importado, chuletas de cuello, solo esbelta separable, crudo
+Nueces, leche de coco, crudo (líquido expresado por carne rallada y agua)
+Carne de cerdo, fresca, pierna (jamón), mitad de grupos, magro y grasa separables, crudo
+Carne de cerdo, fresca, pierna (jamón), vástago mitad, magro separable y grasa, crudo
+Cerdo, fresco, pierna (jamón), mitad de vástago, solo delgado separable, crudo
+Carne de cerdo, fresca, lomo, costillas de estilo country, magro y grasa separables, crudo
+Carne de cerdo, fresca, lomo, costillas de estilo country, solo delgada separable, crudo
+Cerdo, fresco, lomo, lomo, magro y grasa separables, con solución adicional, crudo
+Cerdo, asado de punta de solomillo de pierna, deshuesado, degal y grasa separable, crudo
+Batata, crudo, sin preparación (incluye alimentos para el programa de distribución de alimentos del USDA)
+Turquía de entero, carne ligera, carne y piel, con solución adicional, crudo
+Turquía de entero, carne ligera, solo carne, con solución adicional, crudo
+Pavo, espalda, de pájaro entero, carne y piel, con solución adicional, crudo
+Pavo, espalda, de pájaro entero, solo carne, con solución adicional, crudo
+Pavo, pechuga, de pájaro entero, solo carne, con solución adicional, crudo
+Pavo, carne oscura de todo, carne y piel, con solución adicional, crudo
+Pavo, carne oscura de todo, carne solamente, con solución adicional, crudo
+Pavo, baqueta, de pájaro entero, solo carne, con solución adicional, crudo
+Pavo, muslo, de pájaro entero, solo carne, con solución adicional, crudo
+Pavo, ala, de pájaro entero, solo carne, con solución adicional, crudo
+Manzanas, Raw, Granny Smith, con piel (incluye alimentos para el programa de distribución de alimentos del USDA)
+Manzanas, crudas, rojos deliciosos, con piel (incluye alimentos para el programa de distribución de alimentos del USDA)
+Frijoles, pinto, semillas maduras, crudas (incluye alimentos para el programa de distribución de alimentos del USDA)
+Carne de res, australiana, importada, alimentada con pasto, tierra, 85% delgada / 15% grasa, cruda
+Carne de res, australiana, importada, wagyu, grasa externa, aust.Marcle Score 9, Raw
+Carne de res, australiana, importada, wagyu, grasa de costura, aust.Marcle Score 9, Raw
+Carne de res, flanco, filete, magro y grasa separables, recortados a 0 "grasa, elección, crudo
+Carne de res, flanco, filete, magro y grasa separables, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, flanco, bistec, esbelle separable solamente, recortada a 0 "grasa, elección, cruda
+Carne de res, flanco, bistec, solo delgada separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, Nueva Zelanda, importado, extremo del ombligo de pechuga, delgado y grasa separable, crudo
+Carne de res, Nueva Zelanda, importado, extremo del ombligo de pechuga, solo delgado separable, crudo
+Carne de res, Nueva Zelanda, importado, punta de pechuga, magro separable y grasa, crudo
+Carne de res, Nueva Zelanda, importado, punta de pechuga, solo delgado separable, crudo
+Carne de res, Nueva Zelanda, importado, rollo de ojos de chuck, magro y grasa separable, crudo
+Carne de res, Nueva Zelanda, importado, rollo de ojos de chuck, solo delgado separable, crudo
+Carne de res, lomo, magro y grasa separables, recortado a 1/8 "grasa, prima, cruda
+Pollo, pollos de engorde o freyers, pechuga, sin piel, deshuesada, solo carne, con solución adicional, crudo
+Carne de caza, bisonte, chuletón, solo esbelta separable, recortada a 0 "grasa, cruda
+Carne de caza, bisonte, mejor redonda, solo recaída, filete de 1 ", crudo
+Cordero, boshanco, delgado y grasa separable, recortado a 1/4 "grasa, elección, crudo
+Cordero, boshanco, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, boshanco, solo delgado separable, recortado a 1/4 "grasa, elección, crudo
+Cordero, lomo, magro y grasa separables, recortado a 1/4 "grasa, elección, crudo
+Cordero, lomo, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, lomo, solo delgado separable, recortado a 1/4 "grasa, elección, cruda
+Cordero, Nueva Zelanda, Importado, Rack: completamente francés, separable y grasa, crudo
+Cordero, Nueva Zelanda, importado, estante: totalmente francés, solo delgado, separable, crudo
+Cordero, Nueva Zelanda, importado, estante: parcialmente frenado, delgado y grasa separable, crudo
+Cordero, Nueva Zelanda, Importado, Rack - Parcialmente Frenched, Separable Lean, Raw Raw
+Cordero, Nueva Zelanda, importado, hombro cuadrado, magro separable y grasa, crudo
+Cordero, Nueva Zelanda, importado, hombro cuadrado, solo delgado separable, crudo
+Cordero, costilla, magro y grasa separables, recortado a 1/4 "grasa, elección, crudo
+Cordero, costilla, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, costilla, solo delgado separable, recortado a 1/4 "grasa, elección, cruda
+Cerdo, curado, jamón, rodaja central, estilo country, solo delgado separable, crudo
+Carne de cerdo, fresca, lomo, cuchilla (chuletas o asados), hueso, inclinación y grasa separable, cruda
+Carne de cerdo, fresca, lomo, cuchilla (chuletas o asados), hueso, solo delgado separable, crudo
+Carne de cerdo, fresca, lomo, cuchilla (chuletas o asados), solo inclinados, separables, solo, crudo
+Carne de cerdo, fresca, lomo, lomo central (chuletas), hueso, inclinación y grasa separable, cruda
+Carne de cerdo, fresca, lomo, lomo central (chuletas), hueso, solo delgado separable, crudo
+Carne de cerdo, fresca, lomo, lomo central (chuletas), locos, de inclinación y grasa separable, crudo
+Carne de cerdo, fresca, lomo, lomo central (chuletas), solo delgado, separable solo, crudo
+Carne de cerdo, fresca, lomo, solomillo (chuletas o asados), hueso, inclinación y grasa separable, cruda
+Carne de cerdo, fresca, lomo, solomillo (chuletas o asados), hueso, solo delgado separable, crudo
+Carne de cerdo, fresca, lomo, solomillo (chuletas o asados), locos y grasas separables, separables, crudas
+Carne de cerdo, fresca, lomo, solomillo (chuletas o asados), solo inclinados, separables, solo, crudo
+Carne de cerdo, fresca, lomo, lomo superior (chuletas), deshuesado, delgado y grasa separable, crudo
+Carne de cerdo, fresca, lomo, lomo superior (chuletas), solo delgada, sincera, separable, cruda
+Carne de cerdo, fresca, lomo, lomo superior (asados), deshuesados, de inclinación y grasa separable, crudo
+Carne de cerdo, fresca, lomo, lomo superior (asados), solo delgados, de forma deshuesada, solo, cruda
+Carne de cerdo, fresca, hombro, (Boston Butt), cuchilla (filetes), delgada y grasa separables, crudo
+Carne de cerdo, fresca, hombro, (Boston Butt), Blade (filetes), solo delgado separable, crudo
+PATATAS, RUSSET, FLESH Y LA PIEL, RACH (incluye alimentos para el programa de distribución de alimentos del USDA)
+Arroz, marrón, grano largo, crudo (incluye alimentos para el programa de distribución de alimentos del USDA)
+Arroz, marrón, grano medio, crudo (incluye alimentos para el programa de distribución de alimentos del USDA)
+Frijoles, Great Northern, semillas maduras, crudas (incluye alimentos para el programa de distribución de alimentos del USDA)
+Carne de res, australiana, importada, wagyu, grasa externa, aust.Puntuación de mármol 4/5, Raw
+Carne de res, australiana, importada, wagyu, grasa de costura, aust.Puntuación de mármol 4/5, Raw
+Carne de res, flanco, bistec, delgada y grasa separables, recortadas a 0 "grasa, todos los grados, crudos
+Carne de res, flanco, bistec, delgada separable solamente, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, cortes transversales de vástagos, solo esbelto separable, recortado a 1/4 "grasa, elección, crudo
+Carne de res, lomo, bistec, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo, bistec, magro y grasa separables, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, lomo, bistec, recaída solo, recortada a 1/8 "grasa, elección, crudo
+Carne de res, lomo, bistec, solo delgado separable, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de caza, bisonte, terrón de hombro, solo delgado separable, recortado a 0 "grasa, cruda
+Carne de caza, bisonte, solomillo superior, solo delgado separable, recortado a 0 "grasa, cruda
+Cordero, Nueva Zelanda, importado, congelado, compuesto de cortes minoristas recortados, grasa separable, cruda
+Cordero, Nueva Zelanda, importado, chuleta/filete de piernas, hueso, magro y grasa separable, crudo
+Cordero, Nueva Zelanda, importado, chuleta/filete de piernas, hueso, solo esbelle, solo crudo
+Cordero, Nueva Zelanda, hombro importado, anulado, enrollado, deshuesado, separable delgado y grasa, crudo
+Cordero, Nueva Zelanda, hombro importado, anulado, enrollado, deshuesado, solo delgado, separable, crudo
+Cordero, Nueva Zelanda, importado, chuletas de hombro de corte cuadrado, magro y grasa separables, crudo
+Cordero, Nueva Zelanda, chuletas de hombro importadas, de corte cuadrado, solo delgado separable, crudo
+Cordero, hombro, brazo, magro y grasa separables, recortado a 1/4 "grasa, elección, crudo
+Cordero, hombro, brazo, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, hombro, brazo, solo delgado separable, recortado a 1/4 "grasa, elección, crudo
+Cordero, hombro, cuchilla, magro y grasa separables, recortado a 1/4 "grasa, elección, crudo
+Cordero, hombro, cuchilla, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, hombro, cuchilla, solo delgado separable, recortado a 1/4 "grasa, elección, crudo
+Carne de cerdo, fresca, lomo, cuchilla (chuletas o asados), sola de inclinación y grasa separable, separable, cruda
+Carne de cerdo, fresca, lomo, costillas centrales (chuletas o asados), hueso, inclinación y grasa separable, cruda
+Carne de cerdo, fresca, lomo, costillas centrales (chuletas o asados), hueso, solo delgado separable, crudo
+Carne de cerdo, fresca, lomo, costillas centrales (chuletas o asados), locos y grasas separables, separables, crudas
+Carne de cerdo, fresca, lomo, costillas centrales (chuletas o asados), solo inclinado, separable, solo, crudo
+Carne de res, pechuga, mitad plana, deshuesada, degada y grasa separable, recortada a 0 "grasa, elección, crudo
+Carne de res, pechuga, mitad plana, deshuesada, degada y grasa separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, pechuga, mitad plana, deshuesada, solo delgada separable, recortada a 0 "grasa, elección, cruda
+Carne de res, pechuga, mitad plana, deshuesado, solo delgado separable, recortado a 0 "grasa, seleccionar, crudo
+Carne de res, pechuga, mitad plana, magro y grasa separables, recortada a 1/8 "grasa, elección, crudo
+Carne de res, pechuga, mitad plana, magro y grasa separable, recortada a 1/8 "grasa, seleccionado, crudo
+Carne de res, pechuga, mitad plana, solo delgada separable, recortada a 1/8 "grasa, elección, crudo
+Carne de res, pechuga, mitad plana, solo delgada separable, recortada a 1/8 "grasa, seleccionar, crudo
+Carne de res, pechuga, total, degada y grasa separable, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, bistec de chuck, inclinación y grasa separable, recortada a 0 "grasa, elección, cruda
+Carne de res, bistec de chuck ocular, deshuesado, de grasa y grasa separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, bistec de ojo de chuck, solo delgada, separable, recortada a 0 "grasa, elección, cruda
+Carne de res, bistec de ojos de chuck, lente deshuesado, solo separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, chuck, asado de cuchilla, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, chuck, asado de cuchilla, magro y grasa separables, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, chuck, costillas, locas, degadas y grasas separables, recortadas a 0 "grasa, elección, crudo
+Carne de res, chuck, costillas, sinceros, degados y grasas separables, recortados a 0 "grasa, seleccionado, crudo
+Carne de res, chuck, costillas, de inclinación deshuesado, solo separable, recortada a 0 "grasa, elección, cruda
+Carne de res, chuck, costillas, de inclinación deshuesado, solo separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, compuesto de cortes minoristas recortados, magro y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, compuesto de cortes minoristas recortados, magro y grasa separables, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, compuesto de recortes minoristas recortados, solo delgado separable, recortado a 0 "grasa, elección, crudo
+Carne de res, compuesto de cortes minoristas recortados, solo recorte separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, lomo, asado de lomo, deshuesado, delgado y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, lomo, asado de lomo, deshuesado, delgado y grasa separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, lomo, asado de lomo, sincero, solo delgado separable, recortado a 0 "grasa, elección, crudo
+Carne de res, lomo, asado de lomo, deshuesado solo, solo delgado, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, lomo, filete de lomo, deshuesado, delgado y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, lomo, bistec de lomo, deshuesado, delgado y grasa separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, lomo, bistec de lomo, solo delgado, separable solo, recortado a 0 "grasa, elección, crudo
+Carne de res, lomo, filete de lomo, solo inclinado, separable solo, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, lomo, lomo superior, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo, lomo superior, magro y grasa separables, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, costillas, costillas traseras, hueso, magro y grasa separables, recortado a 0 "grasa, elección, cruda
+Carne de res, costillas, costillas traseras, hueso, inclinación y grasa separables, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, costillas, costillas traseras, hueso, solo delgado separable, recortado a 0 "grasa, elección, cruda
+Carne de res, costillas, costillas traseras, hueso, solo esbelta separable, recortada a 0 "grasa, seleccionar, crudo
+Carne de res, bistec de tapa de chuletón, solo inclinada, separable solo, recortada a 0 "grasa, elección, crudo
+Carne de res, bistec de tapa de chirrido, solo inclinada, separable solo, recortada a 0 "grasa, seleccionar, crudo
+Carne de res, redonda, corte completo, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, redonda, corta completa, magro y grasa separables, recortada a 1/8 "grasa, seleccionada, cruda
+Carne de res, redonda, punta redonda, asada, delgada y grasa separables, recortada a 0 "grasa, elección, crudo
+Carne de res, redonda, punta redonda, asada, delgada y grasa separables, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, redonda, punta redonda, asada, solo delgada separable, recortada a 0 "grasa, elección, cruda
+Carne de res, redonda, punta redonda, asada, solo delgada separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, redonda, punta redonda, delgada y grasa separable, recortada a 1/8 "grasa, elección, crudo
+Carne de res, redonda, punta redonda, degada y grasa separable, recortada a 1/8 "grasa, seleccionar, crudo
+Carne de res, redonda, superior redonda, degada y grasa separable, recortada a 1/8 "grasa, prima, cruda
+Carne de res, lomo, bistec, magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo, bistec, esbelle separable solamente, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, solomillo superior, bistec, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, solomillo superior, filete, magro y grasa separables, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, solomillo superior, bistec, esbelle separable solamente, recortado a 1/8 "grasa, elección, crudo
+Carne de res, solomillo superior, bistec, esbelle separable solamente, recortado a 1/8 "grasa, seleccionado, crudo
+Cordero, australiano, importado, fresco, foreshank, recaída y grasa separable, recortada a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, foreshank, solo delgado separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, lomo, inclinación y grasa separable, recortada a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, lomo, solo delgado separable, recortado a 1/8 "grasa, cruda
+Cordero, compuesto de cortes minoristas recortados, grasa separable, recortada a 1/4 "grasa, elección, crudo
+Cordero, pierna, vástago mitad, magro y grasa separables, recortado a 1/4 "grasa, elección, crudo
+Cordero, pierna, vástago mitad, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, pierna, vástago mitad, solo delgado separable, recortado a 1/4 "grasa, elección, crudo
+Cordero, pierna, solomillo mitad, magro y grasa separables, recortado a 1/4 "grasa, elección, crudo
+Cordero, pierna, solomillo mitad, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, pierna, solomillo mitad, solo delgado separable, recortado a 1/4 "grasa, elección, crudo
+Cordero, Nueva Zelanda, importado, congelado, compuesto de cortes minoristas recortados, solo esbelto separable, crudo
+Carne de cerdo, fresca, compuesta de cortes minoristas recortados (pierna, lomo, hombro), solo delgado separable, crudo
+Carne de cerdo, fresca, compuesta de cortes minoristas recortados (lomo y omóplato), magro y grasa separables, crudo
+Carne de cerdo, fresca, compuesta de cortes minoristas recortados (lomo y omóplato), solo delgado separable, crudo
+Carne de cerdo, fresca, lomo, lomo superior (chuletas), deshuesado, inclinación y grasa separable, con solución adicional, crudo
+Carne de cerdo, fresca, lomo, lomo superior (chuletas), solo delgada, deshuesado, con solución adicional, sin procesar
+Carne de cerdo, fresca, hombro, (Boston Butt), cuchilla (filetes), delgada y grasa separables, con solución adicional, crudo
+Carne de cerdo, fresca, hombro, (Boston Butt), Blade (filetes), solo delgado separable, con solución adicional, cruda
+Carne de res, australiana, importada, alimentada con pasto, lomo, filete/asado de lomo, deshuesado, magro y grasa separable, crudo
+Carne de res, australiana, importada, alimentada con pasto, lomo, filete/asado de lomo, deshuesado, solo delgado, separable, crudo
+Carne de res, solomillo inferior, asado de tri-tip, magro y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, solomillo inferior, asado de tri-tip, magro y grasa separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, solomillo inferior, asado de tri-tip, solo delgado separable, recortado a 0 "grasa, elección, crudo
+Carne de res, solomillo inferior, asado de tri-tip, solo delgado separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, pechuga, mitad plana, solo inclinación separable solo, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, pechuga, mitad plana, deshuesada, degada y grasa separable, recortada a 0 "grasa, todas las calificaciones, crudos
+Carne de res, pechuga, mitad plana, magro y grasa separables, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, pechuga, mitad plana, solo delgada separable, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, pechuga, mitad de punto, magra y grasa separables, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, bistec de ojo de chuck, deshuesado, de grasa y grasa separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, bistec de chuck ojo, solo de inclinación separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, chuck, olla asada, magra y grasa separables, recortada a 1/8 "grasa, elección, crudo
+Carne de res, chuck, olla asada, magra y grasa separables, recortada a 1/8 "grasa, seleccionado, crudo
+Carne de res, chuck, olla asada, solo delgada separable, recortada a 1/8 "grasa, elección, crudo
+Carne de res, chuck, olla asada, solo delgada separable, recortada a 1/8 "grasa, seleccionar, crudo
+Carne de res, chuck, asado de cuchilla, magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, chuck, asado de terrón, solo delgado separable, recortado a 1/4 "grasa, todos los grados, crudos
+Carne de res, chuck, bistec tierno burlón, deshuesado, degal y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, chuck, bistec tierno simulada, deshuesado, degal y grasa separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, chuck, bistec tierno simulada, solo inclinado, separable solo, recortado a 0 "grasa, elección, crudo
+Carne de res, chuck, bistec tierno simulada, solo inclinado, separable solo, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, arrojos, costillas, sinceros, degados y grasas separables, recortadas a 0 "grasa, todas las calificaciones, crudos
+Carne de res, chuck, costillas, de inclinación deshuesado, solo separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, compuesto de cortes minoristas recortados, magro y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, compuesto de cortes minoristas recortados, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, compuesto de cortes minoristas recortados, magro y grasa separables, recortada a 1/8 "grasa, seleccionada, cruda
+Carne de res, compuesto de cortes minoristas recortados, solo esbelta separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, compuesto de cortes minoristas recortados, solo esbelle separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, compuesto de cortes minoristas recortados, solo recorte separable, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, tierra, 85% de carne magra / 15% de grasa, crudo (incluye alimentos para el programa de distribución de alimentos del USDA)
+Carne de res, lomo, asado de lomo, deshuesado, delgado y grasa separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, lomo, asado de lomo, solo delgado, separable solo, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, lomo, filete de lomo, sincero, degada y grasa separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, lomo, bistec de lomo, solo inclinación, separable, recortada a 0 "grasa, todas las calificaciones, crudos
+Carne de res, filete de plato, sin hueso, falda interior, magro y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, filete de plato, sincero, falda interior, magro y grasa separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, filete de plato, sintones, falda interior, solo delgado separable, recortado a 0 "grasa, elección, cruda
+Carne de res, filete de placa, sin hueso, falda interior, solo recorte separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, filete de plato, sincero, falda exterior, magro y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, filete de plato, sincero, falda exterior, magro y grasa separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, filete de plato, sintones, falda exterior, solo delgada separable, recortada a 0 "grasa, elección, cruda
+Carne de res, filete de plato, sincero, falda exterior, solo recorte separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, costillas, costillas traseras, hueso, magro y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, costillas, costillas traseras, hueso, solo delgado separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, pitite asado/filete, solo sin inclinación, recortada a 0 "grasa, elección, crudo
+Carne de res, petito asado/filete, solo sin inclinación, recortada solo a 0 "grasa, seleccionada, cruda
+Carne de res, bistec de tapa de chuletón, solo inclinada, separable solo, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, fondo redondo, asado, solo delgado separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, redonda, abajo redonda, asado, solo delgado separable, recortado a 1/8 "grasa, seleccionar, crudo
+Carne de res, redonda, abajo redonda, filete, magro y grasa separables, recortada a 1/8 "grasa, elección, crudo
+Carne de res, redonda, abajo redonda, filete, magro y grasa separables, recortada a 1/8 "grasa, seleccionar, crudo
+Carne de res, redonda, ojo de asado redondo, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, redonda, ojo de asado redondo, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, redonda, ojo de asado redondo, deshuesado, solo delgado separable, recortado a 0 "grasa, elección, crudo
+Carne de res, redonda, ojo de asado redondo, deshuesado solo, de inclinación separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, redonda, ojo de filete redondo, inclinación y grasa separable y grasa, recortada a 0 "grasa, elección, crudo
+Carne de res, redonda, ojo de filete redondo, deshuesado, degal y grasa separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, redonda, ojo de bistec redondo, deshuesado solo, solo de inclinación separable, recortada a 0 "grasa, elección, crudo
+Carne de res, redonda, ojo de bistec redondo, deshuesado solo, separable solo, recortado a 0 "grasa, seleccionar, crudo
+Carne de res, redonda, ojo de redondo, asado, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, redonda, ojo de redondo, asado, magro y grasa separables, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, redonda, ojo de redondo, asado, solo delgado separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, redonda, ojo de redondo, asado, solo delgado separable, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, redonda, nudillo, centro de punta, bistec, delgado y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, redonda, nudillo, centro de punta, bistec, delgado y grasa separables, recortado a 0 "grasa, seleccionada, cruda
+Cordero, australiano, importado, fresco, pierna, solomillo, solamente, recortado solo, grasa de 1/8 "
+Carne de res, redonda, nudillo, punta del lado, filete, delgado y grasa separables, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, redonda, nudillo, punta del lado, bistec, delgada y grasa separables, recortada a 0 "grasa, elección, crudo
+Carne de res, redonda, punta redonda, asada, delgada y grasa separables, recortadas a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, punta redonda, asada, solo delgada separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, punta redonda, delgada y grasa separable, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, redonda, asado redondo superior, deshuesado, delgado y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, redonda, asado redondo superior, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, redonda, asado redondo superior, solo de inclinación separable, recortada a 0 "grasa, elección, crudo
+Carne de res, redonda, asado redondo superior, solo de inclinación separable, recortada a 0 "grasa, seleccionar, crudo
+Carne de res, bistec redonda, de top, deshuesado, grasa y grasa separable, recortada a 0 "grasa, elección, crudo
+Carne de res, redondeo redonda, bistec redonda, deshuesado, de grasa y grasa separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, bistec redonda, de top, de inclinación deshuesado, separable, recortada a 0 "grasa, elección, cruda
+Carne de res, bistec redonda, superconente, solo de inclinación separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, redonda, superior redonda, bistec, delgada y grasa separables, recortada a 1/8 "grasa, elección, crudo
+Carne de res, redonda, superior redonda, bistec, delgada y grasa separables, recortada a 1/8 "grasa, seleccionada, cruda
+Carne de res, redonda, superior redonda, bistec, solo delgada separable, recortada a 1/8 "grasa, elección, crudo
+Carne de res, redonda, superior redonda, bistec, solo delgada separable, recortada a 1/8 "grasa, seleccionar, crudo
+Carne de res, lomo corto, filete de portero, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo corto, filete de portero, magro y grasa separables, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, lomo corto, bistec de Porterhouse, solo delgado separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo corto, filete de porterhouse, solo delgado separable, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, asado o bistec de hombros, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, asado o bistec de hombros, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, asado o bistec de hombros, solo inclinado, separable solo, recortado a 0 "grasa, elección, cruda
+Carne de res, asado o bistec de hombro, solo inclinado, separable solo, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, filete de cuchilla superior de hombro, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, filete de cuchilla superior de hombro, deshuesado, de grasa y grasa separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, filete de cuchilla superior de hombro, solo inclinado, separable, recortado a 0 "grasa, elección, crudo
+Carne de res, filete de cuchilla superior del hombro, solo delgado, separable solo, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, solomillo superior, bistec, magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, solomillo superior, bistec, esbelle separable solamente, recortado a grasa de 1/8 ", todos los grados, crudos
+Cordero, australiano, importado, fresco, hombro, brazo, magro y grasa separables, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, hombro, brazo, solo delgado separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, hombro, cuchilla, magro y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, hombro, cuchilla, solo delgado separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, lomo, deshuesado, inclinado y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, lomo, deshuesado solo, separable solo, recortado a 1/8 "grasa, cruda
+Cordero, compuesto de cortes minoristas recortados, magro y grasa separables, recortado a 1/4 "grasa, elección, crudo
+Cordero, compuesto de cortes minoristas recortados, magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, compuesto de cortes minoristas recortados, solo esbelto separable, recortado a 1/4 "grasa, elección, crudo
+Cordero, en cubos para estofado o kabob (pierna y hombro), solo delgado separable, recortado a 1/4 "grasa, cruda
+Cordero, pierna, entero (vástago y solomillo), delgado y grasa separables, recortado a 1/4 "grasa, elección, crudo
+Cordero, pierna, entero (vástago y solomillo), delgado y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, pierna, entero (vástago y solomillo), solo delgado separable, recortado a 1/4 "grasa, elección, crudo
+Cordero, hombro, entero (brazo y cuchilla), magro y grasa separables, recortado a 1/4 "grasa, elección, crudo
+Cordero, hombro, entero (brazo y cuchilla), magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Cordero, hombro, entero (brazo y cuchilla), solo delgado separable, recortado a 1/4 "grasa, elección, crudo
+Carne de cerdo, fresca, compuesta de cortes minoristas recortados (pierna, lomo, hombro y bareribs), magro y grasa separables, crudo
+Carne de res, australiana, importada, alimentada con pasto, lomo, filete/asado de lomo superior, deshuesado, magro y grasa separable, crudo
+Carne de res, australiana, importada, alimentada con pasto, lomo, filete/asado de lomo superior, solo sin lente, solo recaída, crudo
+Carne de res, australianas, importadas, alimentadas con pasto, costilla, filete de chirrido/asado lip-on, deshuesado, magro y grasa separable, crudo
+Carne de res, australianas, importadas, alimentadas con pasto, costilla, filete de chirrido/asado lip-on, deshuesado, solo delgado, separable, crudo
+Carne de res, australiana, importada, alimentada con pasto, redonda, filete/asado en el fondo, deshuesado, degal y grasa separable, crudo, crudo
+Carne de res, australiana, importada, alimentada con pasto, redonda, filete/asado en el fondo, solo sin embargo, separable solo, crudo
+Carne de res, solomillo inferior, asado de tri-tip, magro y grasa separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, solomillo inferior, asado de tri-tip, solo delgado separable, recortado a 0 "grasa, todos los grados, crudos
+Beef, costillas de estilo country de carne de res chuck, inclinación y grasa separables, recortadas a 0 "grasa, elección, crudo
+Beef, costillas de estilo country de carne de res chuck, inclinación y grasa separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, costillas de estilo country, solo sin huecos, recortados a 0 "grasa, elección, crudo
+Beef, costillas de estilo country de carne de res Chuck, solo inclinada, separable, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, chuck, olla asada, magra y grasa separables, recortadas a 1/8 "grasa, todos los grados, crudos
+Carne de res, chuck, olla asada, solo delgada separable, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, chuck, bistec tierno burlón, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, chuck, bistec tierno simulada, solo inclinado, separable solo, recortado a 0 "grasa, todas las calificaciones, crudos
+Carne de res, chuck, cureza de hombro, hombro tierno, medallón, magro y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, chuck, cureza de hombro, hombro tierno, medallón, magro separable y grasa, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, chuck, transejo de hombro, cuchilla superior, filete, magro y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, chuck, cureza de hombro, cuchilla superior, filete, magro y grasa separables, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, compuesto de cortes minoristas recortados, magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, compuesto de cortes minoristas recortados, solo esbelta separable, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, filete de plato, sintones, falda interior, magro y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, filete de plato, deshuesado, falda interior, solo delgada separable, recortada a 0 "grasa, todas las calificaciones, crudos
+Carne de res, filete de plato, sincero, falda exterior, magro y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, filete de plato, sincero, falda exterior, solo delgada separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, filete de costilla, deshuesado, labio apagado, magro y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, filete de costilla, deshuesado, labio apagado, magro y grasa separables, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, filete de costilla, deshuesado, labio apagado, solo delgado separable, recortado a 0 "grasa, elección, crudo
+Carne de res, filete de costilla, deshuesado, labio apagado, solo delgado separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, costillas, enteros (costillas 6-12), magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, costillas, enteros (costillas 6-12), magro y grasa separables, recortado a 1/8 "grasa, prima, cruda
+Carne de res, costillas, enteros (costillas 6-12), magro y grasa separables, recortado a 1/8 "grasa, seleccionada, cruda
+Carne de res, pitite asado/filete, solo sin inclinación, separable solo, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, abajo redonda, asado, recorte solo, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, redonda, abajo redonda, filete, magro y grasa separables, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, redonda, ojo de asado redondo, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, ojo de asado redondo, deshuesado solo, separable solo, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, ojo de bistec redondo, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, ojo de bistec redondo, solo delgada, separable solo, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, ojo de redondo, asado, magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, redonda, ojo de redondo, asado, solo delgado separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, redonda, nudillo, centro de punta, bistec, delgada y grasa separables, recortadas a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, nudillo, punta del lado, filete, delgado y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, exterior redonda, abajo redonda, filete, magro y grasa separables, recortada a 0 "grasa, elección, crudo
+Carne de res, redonda, afuera, redonda, fondo, filete, magro y grasa separables, recortada a 0 "grasa, seleccionada, cruda
+Carne de res, redonda, asado redondo superior, deshuesado, delgado y grasa separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, asado redondo superior, solo delgado, separable solo, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, bistec redonda, de top, sincera, degada y grasa separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, bistec redonda, superconente, solo de inclinación separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, redonda, superior redonda, bistec, delgada y grasa separables, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, redonda, superior redonda, bistec, solo delgada separable, recortada a grasa de 1/8 ", todos los grados, crudos
+Carne de res, lomo corto, filete de portero, magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo corto, bistec de Porterhouse, solo delgado separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo corto, bistec t-bone, magro y grasa separable, recortada a 1/8 "grasa, elección, crudo
+Carne de res, lomo corto, bistec t-bone, magro y grasa separable, recortada a 1/8 "grasa, seleccionada, cruda
+Carne de res, lomo corto, lomo superior, filete, magro y grasa separables, recortado a 1/8 "grasa, primo, crudo
+Carne de res, lomo corto, lomo superior, filete, solo delgado separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo corto, lomo superior, bistec, solo esbelta separable, recortada a 1/8 "grasa, seleccionada, cruda
+Carne de res, asado o bistec de hombros, deshuesado, inclinado y grasa separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, asado o bistec de hombros, solo inclinados, separables solo, recortados a 0 "grasa, todos los grados, crudos
+Carne de res, filete de cuchilla superior del hombro, deshuesado, delgado y grasa separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, filete de cuchilla superior de hombro, solo inclinado, separable solo, recortado a 0 "grasa, todos los grados, crudos
+Cordero, australiano, importado, fresco, pierna, fondo, deshuesado, delgado y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, fondo, deshuesado solo, separable solo, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, vástago mitad, magro y grasa separables, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, vástago mitad, solo delgado separable, recortado a 1/8 "grasa, cruda
+Cordero, Nueva Zelanda, pierna importada, con huesos de túneles, chupar, vástago, delgado y grasa separable, crudo
+Cordero, Nueva Zelanda, pierna importada, con huesos de túneles, chump, vástago, solo delgado separable, crudo
+Carne de cerdo, fresca, compuesta de pierna recortada, lomo, hombro y spareribs, (incluye cortes para curar), grasa y grasa separable, cruda
+Carne de res, costillas de estilo country, de grasa y grasa separable, deshuesado, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, costillas de estilo country, solo sin inclinación, de inclinación separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, asado con ojos de chuck, deshuesado, asado de carne de res en Estados Unidos, magro y grasa separable, recortado a 0 "grasa, elección, cruda
+Carne de res, tostado de chuck ocular, Boneless, asado de carne de res en Estados Unidos, magro y grasa separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, tostado de chuck ocular, sincero, asado de carne de res en Estados Unidos, solo delgado separable, recortado a 0 "grasa, elección, crudo
+Carne de res, tostado de chuck ocular, sincero, asado de carne de res en Estados Unidos, solo delgado separable, recortado a 0 "grasa, seleccionado, crudo
+Carne de res, chuck, arcillero, hombro tierno, medallón, magro y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, chuck, cureza de hombro, tapa de hombro y filetes centrales, magro y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, chuck, rugido de hombro, tapa de hombro y filetes centrales, magro y grasa separables, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, chuck, transejo de hombro, cuchilla superior, filete, magro y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, chuck, debajo de la olla asada o bistec, deshuesado, delgado y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, chuck, debajo de la olla asada o bistec, deshuesado, delgado y grasa separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, chuck, debajo de la olla asada o bistec, solo delgada, desagradable, recortada a 0 "grasa, elección, cruda
+Carne de res, chuck, debajo de la olla asada o bistec, solo de inclinación deshuesado, separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, lomo, filete de lomo superior, deshuesado, labio apagado, magro y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, lomo, filete de lomo superior, deshuesado, labio apagado, magro y grasa separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, lomo, filete de lomo superior, deshuesado, labio apagado, solo delgado separable, recortado a 0 "grasa, elección, cruda
+Carne de res, lomo, filete de lomo superior, deshuesado, labio apagado, solo delgado separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, lomo, filete de lomo superior, deshuesado, labial, inclinación y grasa separable, recortada a 1/8 "grasa, elección, crudo
+Carne de res, lomo, filete de lomo superior, deshuesado, labial, delgado y grasa separable, recortado a 1/8 "grasa, seleccionada, cruda
+Carne de res, lomo, filete de lomo superior, deshuesado, lip-on, solo delgado separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo, filete de lomo superior, deshuesado, lip-on, separable solo delgado, recortado a 1/8 "grasa, seleccionada, cruda
+Carne de res, lomo, bistec de tapa de solomillo superior, deshuesado, inclinado y grasa separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo, bistec de tapa de solomillo superior, deshuesado, inclinado y grasa separable, recortado a 1/8 "grasa, seleccionada, cruda
+Carne de res, lomo, bistec de tapa de solomillo superior, solo delgado, separable solo, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo, bistec de tapa de solomillo superior, solo inclinado, separable solo, recortado a 1/8 "grasa, seleccionada, cruda
+Carne de res, lomo, top shoil petite asado/filete, solo sin lente de inclinación, recortada a 0 "grasa, elección, crudo
+Carne de res, lomo, solomillo petite asado/filete, solo sin lente de inclinación, recortada a 0 "a 0", seleccionado, crudo
+Carne de res, filete de costilla, deshuesado, labio apagado, magro y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, filete de costilla, deshuesado, labio apagado, solo delgado separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, filete de costilla/asado, hueso, labio, magro y grasa separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, filete de costilla/asado, hueso, labio, delgado y grasa separable, recortado a 1/8 "grasa, seleccionada, cruda
+Carne de res, filete de costilla/asado, hueso, lip-on, solo delgado separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, filete de costilla/asado, hueso, lip-on, solo delgado separable, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, filete de costilla/asado, deshuesado, labial, delgado y grasa separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, filete de costilla/asado, deshuesado, labial, inclinación y grasa separable, recortada a 1/8 "grasa, seleccionada, cruda
+Carne de res, filete de costilla/asado, deshuesado, lip-on, solo delgado separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, filete de costilla/asado, deshuesado, lip-on, separable solamente, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, costilla, extremo pequeño (costillas 10-12), solo delgada separable, recortada a 0 "grasa, seleccionar, crudo
+Carne de res, costilla, ojo, extremo pequeño (costillas 10-12), magro y grasa separables, recortado a 0 "grasa, elección, crudo
+Carne de res, costilla, ojo, extremo pequeño (costillas 10-12), solo delgado separable, recortado a 0 "grasa, elección, cruda
+Carne de res, costilla, extremo grande (costillas 6-9), magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, costilla, extremo grande (costillas 6-9), magro y grasa separables, recortado a 1/8 "grasa, prima, cruda
+Carne de res, costilla, extremo grande (costillas 6-9), magro y grasa separables, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, costilla, extremo pequeño (costillas 10-12), magro y grasa separables, recortado a 1/8 "grasa, elección, crudo
+Carne de res, costilla, extremo pequeño (costillas 10-12), magro y grasa separables, recortado a 1/8 "grasa, prima, cruda
+Carne de res, costilla, extremo pequeño (costillas 10-12), magro y grasa separables, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, costilla, extremo pequeño (costillas 10-12), solo delgado separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, costilla, extremo pequeño (costillas 10-12), solo delgado separable, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, costillas, enteros (costillas 6-12), magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, redonda, afuera, redonda, fondo redonda, filete, magro y grasa separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, lomo corto, bistec t-hueso, hueso, solo delgado separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo corto, bistec t-hueso, hueso, solo delgado separable, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, lomo corto, bistec t-bone, magro y grasa separable, recortada a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo corto, filete de lomo superior, solo delgado separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo corto, lomo superior, filete, magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo superior petite asado/filete, deshuesado, inclinado y grasa separable, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo superior petite asado/filete, deshuesado, inclinado y grasa separable, recortado a 1/8 "grasa, seleccionado, crudo
+Carne de res, lomo superior petite asado/filete, solo inclinado, separable solo, recortado a 1/8 "grasa, elección, crudo
+Carne de res, lomo superior petite asado/filete, solo inclinado, separable solo, recortado a 1/8 "grasa, seleccionado, crudo
+Cordero, australiano, importado, fresco, compuesto de cortes minoristas recortados, magro y grasa separables, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, compuesto de cortes minoristas recortados, solo esbelto separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, rodaja central, hueso, inclinación y grasa separable, recortada a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, rodaja central, hueso, solo delgado separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, hostshank, talón encendido, hueso, inclinación y grasa separable, recortada a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, hostshank, talón encendido, hueso, solo delgado separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, solomodón, lente y grasa deshuesado, separable, recortada a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, mitad de solomillo, deshuesado, de lente y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, mitad de solomillo, solo de inclinación deshuesada, separable, recortada a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, trotter, hueso, inclinación y grasa separable, recortada a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, trotter, solo por hueso, solo delgado, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, entero (vástago y solomillo), delgado y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, pierna, entero (vástago y solomillo), solo delgado separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, hombro, entero (brazo y cuchilla), delgado y grasa separable, recortado a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, hombro, entero (brazo y cuchilla), solo delgado separable, recortado a 1/8 "grasa, cruda
+Carne de cerdo, fresca, pierna (jamón), mitad de grupos, solo recaudación separable, cruda (incluye alimentos para el programa de distribución de alimentos del USDA)
+Carne de res, australiana, importada, alimentada con pasto, lomo, recipiente de solomillo superior, filete/asado, burla y grasa separable, cruda
+Carne de res, australiana, importada, alimentada con pasto, lomo, recipiente superior de solomillo
+Carne de res, australiana, importada, alimentada con pasto, redonda, top-top-up-actin de tapa de tapa, deshuesado, inclinación y grasa separable, cruda
+Carne de res, australiana, importada, alimentada con pasto, redonda, top-ronda de bistec/asado, solo sin lente, solo recaída, crudo
+Carne de res, australiana, importada, wagyu, lomo, filete/asado de lomo, deshuesado, magro y grasa separable, aust.Marcle Score 9, Raw
+Carne de res, australiana, importada, wagyu, lomo, filete/asado de lomo, solo delgada, solo delgada separable, aust.Marcle Score 9, Raw
+Carne de res, australiana, importada, wagyu, lomo, filete/asado de lomo superior, magro y grasa separables, aust.Marcle Score 9, Raw
+Carne de res, asado de chuck eye, deshuesado, asado de carne de res en Estados Unidos, magro y grasa separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, asado con ojos de chuck, deshuesado, asado de carne de res en Estados Unidos, solo delgado separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, chuck, rugido de hombro, tapa de hombro y filetes centrales, magro y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, chuck, bistec del centro de cuchilla, deshuesado, corte de Denver, delgado y grasa separable, recortado a 0 "grasa, elección, crudo
+Carne de res, chuck, debajo del bistec central de la cuchilla, deshuesado, corte de Denver, delgado y grasa separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, chuck, debajo del bistec central de la cuchilla, deshuesado, corte de Denver, solo delgado separable, recortado a 0 "grasa, elección, crudo
+Carne de res, chuck, debajo del bistec central de la cuchilla, deshuesado, corte de Denver, solo delgado separable, recortado a 0 "grasa, seleccionada, cruda
+Carne de res, chuck, debajo de la olla asada o bistec, sintones, delgados y grasas separables, recortadas a 0 "grasa, todos los grados, crudos
+Carne de res, chuck, debajo de la olla asada o bistec, solo delgada y separable, recortada a 0 "grasa, todos los grados, crudos
+Carne de res, lomo, filete de lomo superior, deshuesado, labio apagado, magro y grasa separables, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, lomo, filete de lomo superior, deshuesado, labio apagado, solo delgado separable, recortado a 0 "grasa, todos los grados, crudos
+Carne de res, lomo, filete de lomo superior, deshuesado, labial, delgado y grasa separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo, filete de lomo superior, deshuesado, lip-on, solo delgado separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo, bistec de tapa de solomillo superior, deshuesado, inclinado y grasa separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo, recipiente de solomillo superior, solo inclinado, separable solo, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo, top showe petite asado/filete, solo sin lente de inclinación, recortada a 0 "grasa, todas las calificaciones, crudos
+Carne de res, filete de costilla/asado, hueso, labio, magro y grasa separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, filete de costilla/asado, hueso, lip-on, solo delgado separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, filete de costilla/asado, deshuesado, labial, delgado y grasa separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, filete de costilla/asado, deshuesado, lip-on, solo delgado separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, costilla, extremo grande (costillas 6-9), magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, costilla, extremo pequeño (costillas 10-12), magro y grasa separables, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, costilla, extremo pequeño (costillas 10-12), solo delgado separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo corto, bistec t-hueso, hueso, solo delgado separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo superior petite asado/filete, deshuesado, inclinado y grasa separable, recortado a 1/8 "grasa, todos los grados, crudos
+Carne de res, lomo superior petite asado/filete, solo inclinado, separable solo, recortado a 1/8 "grasa, todos los grados, crudos
+Cordero, Nueva Zelanda, importado, congelado, compuesto de cortes minoristas recortados, magro y grasa separables, recortado a 1/8 "grasa, cruda
+Carne de res, australiana, importada, wagyu, lomo, filete/asado de lomo, deshuesado, magro y grasa separable, aust.Puntuación de mármol 4/5, Raw
+Carne de res, australiana, importada, wagyu, lomo, filete/asado de lomo, solo delgada, solo delgada separable, aust.Puntuación de mármol 4/5, Raw
+Carne de res, australiana, importada, wagyu, lomo, filete/asado de lomo superior, solo delgada, solo delgada, separable, aust.Marcle Score 9, Raw
+Carne de res, chuck, bistec del centro de cuchilla, deshuesado, corte de Denver, delgado y grasa separable, recortado a 0 "grasa, todas las calificaciones, crudos
+Carne de res, chuck, bistec del centro de cuchilla, deshuesado, corte de Denver, solo delgado separable, recortado a 0 "grasa, todos los grados, crudos
+Cordero, australiano, importado, fresco, pez de costilla/asado de estante, francés, hueso, inclinación y grasa separable, recortada a 1/8 "grasa, cruda
+Cordero, australiano, importado, fresco, choque de costillas/asado de estante, francés, hueso, solo delgado separable, recortado a 1/8 "grasa, cruda
+Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean and fat, Australian.Puntuación de mármol 4/5, Raw
+Carne de res, australiana, importada, wagyu, lomo, filete/asado de lomo superior, solo delgada, solo delgada, separable, aust.Puntuación de mármol 4/5, Raw
+Carne de res, australiana, importada, wagyu, costilla, filete de costilla de extremo pequeño/asado, deshuesado, magro y grasa separables, aust.Marcle Score 9, Raw
+Carne de res, australiana, importada, wagyu, costilla, filete de costilla/asado de extremo pequeño, solo delgada, de inclinación separable, australiana.Marcle Score 9, Raw
+Carne de res, australiana, importada, wagyu, costilla, filete de costilla de extremo pequeño/asado, deshuesado, magro y grasa separables, aust.Puntuación de mármol 4/5, Raw
+Carne de res, australiana, importada, wagyu, costilla, filete de costilla/asado de extremo pequeño, solo delgada, de inclinación separable, australiana.Puntuación de mármol 4/5, Raw
