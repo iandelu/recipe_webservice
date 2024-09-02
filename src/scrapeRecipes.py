@@ -1,12 +1,12 @@
 from flask import Flask, request, jsonify
-from recipe_scrapers import scrape_me
+from recipe_scrapers import scrape_html
 
 
 app = Flask(__name__)
 
 def scrape_recipe(url, wild):
     try:
-        scraper = scrape_me(url, wild_mode=True)
+        scraper = scrape_html(url, wild_mode=True)
         return scraper.to_json()
     except Exception as e:
         print(f"Error al raspar {url}: {e}")
